@@ -1,0 +1,22 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Data cache and generated files
+/data/etf_cache.json
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE settings
+.vscode/
+.idea/

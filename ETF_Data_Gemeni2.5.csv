@@ -1,0 +1,588 @@
+ticker,name,description,expense_ratio,sector,theme_tags,risk_level,AUM,performance_1yr,volatility,dividend_yield
+ARKG,ARK Genomic Revolution ETF,"Focuses on companies involved in genomic sequencing, gene editing, and bioinformatics.",0.75,Healthcare,"Genomics, Biotechnology",High,2300,-5.20%,High,0.18%
+ICLN,iShares Global Clean Energy ETF,"Targets global companies that produce energy from solar, wind, and other renewable sources.",0.42,Utilities,"Clean Energy, Renewables",Medium,6100,-15.40%,Medium,1.52%
+BOTZ,Global X Robotics & Artificial Intelligence ETF,Invests in companies that could benefit from the increased adoption and utilization of robotics and artificial intelligence.,0.68,Technology,"Robotics, AI, Automation",High,2500,18.70%,High,0.25%
+BUG,Global X Cybersecurity ETF,"Seeks to invest in companies providing cybersecurity solutions, including hardware, software, and services.",0.5,Technology,"Cybersecurity, Software",Medium,1200,22.10%,Medium,0.05%
+PHO,Invesco Water Resources ETF,"Focuses on companies that create products designed to conserve and purify water for homes, businesses, and industries.",0.59,Utilities,"Water, Infrastructure",Low,1800,7.80%,Low,0.85%
+CLOU,Global X Cloud Computing ETF,Invests in companies positioned to benefit from the increased adoption of cloud computing technology.,0.68,Technology,"Cloud Computing, Software",Medium,1100,15.30%,Medium,0.00%
+LIT,Global X Lithium & Battery Tech ETF,"Tracks companies involved in the full lithium cycle, from mining and refining to battery production.",0.75,Basic Materials,"Lithium, Battery Technology, EVs",Medium,3000,-20.10%,High,0.55%
+FINX,Global X FinTech ETF,"Targets companies providing financial technology, including mobile payments, peer-to-peer lending, and blockchain.",0.68,Financials,"FinTech, Digital Payments, Blockchain",Medium,700,10.50%,Medium,0.10%
+DRIV,Global X Autonomous & Electric Vehicles ETF,"Invests in companies involved in the development of autonomous vehicles, electric vehicles, and related technologies.",0.68,Consumer Discretionary,"EVs, Autonomous Vehicles, Automotive Tech",High,1500,-8.90%,High,0.00%
+KOMP,SPDR S&P Kensho New Economies Composite ETF,"Provides exposure to companies across various disruptive innovation themes, including AI, robotics, and clean energy.",0.2,Multi-Sector,"Innovation, Disruptive Tech",Medium,1000,14.10%,Medium,0.80%
+AIQ,Global X Artificial Intelligence & Technology ETF,Holds a globally diversified basket of AI and big data companies.,0.68,Technology,"AI, Big Data, Software",High,900,25.50%,High,0.00%
+ROBO,ROBO Global Robotics and Automation Index ETF,"Provides exposure to global robotics, automation, and artificial intelligence sectors.",0.95,Industrials,"Robotics, Automation, AI",High,2000,12.80%,High,0.20%
+CIBR,First Trust NASDAQ Cybersecurity ETF,Tracks companies that are involved in the cybersecurity industry.,0.6,Technology,Cybersecurity,Medium,4000,20.50%,Medium,0.00%
+ARKK,ARK Innovation ETF,An actively managed ETF that invests in disruptive innovation across various sectors.,0.75,Multi-Sector,"Disruptive Innovation, Tech",High,8000,-10.00%,Very High,0.00%
+SMH,VanEck Semiconductor ETF,"Invests in companies involved in the semiconductor industry, including design, manufacturing, and distribution.",0.35,Technology,"Semiconductors, Hardware",Medium,20000,55.00%,Medium,0.80%
+ESPO,VanEck Video Gaming and eSports ETF,Seeks to replicate the price and yield performance of the MVIS Global Video Gaming and eSports Index.,0.55,Communication Services,"Gaming, Esports, Digital Entertainment",Medium,400,10.20%,Medium,0.00%
+AQWA,Global X Clean Water ETF,"Focuses on companies involved in the global clean water industry, including treatment, infrastructure, and utilities.",0.5,Utilities,"Clean Water, Infrastructure",Low,150,5.50%,Low,0.60%
+PAVE,Global X U.S. Infrastructure Development ETF,Invests in companies that stand to benefit from increased infrastructure activity in the United States.,0.47,Industrials,"Infrastructure, Construction",Medium,1000,11.30%,Medium,0.90%
+GNOM,Global X Genomics & Biotechnology ETF,"Similar to ARKG, focuses on the genomics and biotechnology revolution.",0.5,Healthcare,"Genomics, Biotechnology",High,200,-8.70%,High,0.00%
+IPAY,ETFMG Prime Mobile Payments ETF,Targets companies positioned to benefit from the increasing adoption of mobile payment technology.,0.75,Technology,"Mobile Payments, FinTech",Medium,300,8.10%,Medium,0.00%
+CHIQ,Global X MSCI China Consumer Discretionary ETF,"Provides exposure to the consumer discretionary sector in China, benefiting from rising incomes.",0.66,Consumer Discretionary,"China Consumption, E-commerce",Medium,250,-18.20%,High,0.50%
+EBIZ,Global X E-commerce ETF,Invests in companies that have significant exposure to the e-commerce industry.,0.68,Consumer Discretionary,"E-commerce, Digital Retail",Medium,100,-12.50%,High,0.00%
+RAYS,Global X Solar ETF,Focuses on companies that are positioned to benefit from the adoption of solar energy technology.,0.69,Utilities,"Solar Energy, Renewables",Medium,180,-25.00%,High,0.00%
+WNDY,Global X Wind Energy ETF,Invests in companies that are positioned to benefit from the adoption of wind energy technology.,0.69,Utilities,"Wind Energy, Renewables",Medium,80,-18.50%,High,0.00%
+HACK,PureFunds CyberSecurity ETF,Invests in companies providing products and services for cybersecurity.,0.6,Technology,Cybersecurity,Medium,2000,20.00%,Medium,0.00%
+QQQJ,Invesco Nasdaq Next Gen 100 ETF,"Tracks the Nasdaq Next Generation 100 Index, focusing on the next 100 largest non-financial companies on the Nasdaq after the Nasdaq-100.",0.15,Multi-Sector,"Growth, Next Gen Tech",Medium,800,16.50%,Medium,0.10%
+HERO,Global X Video Games & Esports ETF,"Provides exposure to companies involved in video game development, esports, and related hardware and software.",0.5,Communication Services,"Gaming, Esports",Medium,300,9.50%,Medium,0.00%
+DAPP,VanEck Digital Transformation ETF,"Seeks to track the performance of companies involved in the digital transformation of the economy, including blockchain and digital assets.",0.65,Technology,"Blockchain, Digital Assets",High,200,30.00%,Very High,0.00%
+ARKF,ARK FinTech Innovation ETF,Actively managed fund focusing on companies involved in financial technology.,0.75,Financials,"FinTech, Innovation",High,900,-3.50%,High,0.00%
+BFIT,Global X Health & Wellness ETF,"Invests in companies promoting health and wellness, including fitness, healthy food, and personal care.",0.5,Consumer Staples,"Health & Wellness, Lifestyle",Low,50,4.00%,Low,1.20%
+RVNU,RiverFront Dynamic US Dividend ETF,Seeks to invest in dividend-paying U.S. companies across various sectors. (Thematic if focused on dividend growth trend),0.85,Multi-Sector,"Income, Dividend Growth",Medium,100,8.50%,Medium,3.50%
+HYDR,Global X Hydrogen ETF,Invests in companies that stand to benefit from the advancement of the global hydrogen economy.,0.69,Industrials,"Hydrogen, Clean Energy",High,120,-22.00%,High,0.00%
+GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Actively managed ETF investing in innovative technology companies.,0.75,Technology,"Future Tech, Innovation",High,50,18.00%,High,0.00%
+EDOC,Global X Telemedicine & Digital Health ETF,Focuses on companies providing telemedicine and digital health solutions.,0.68,Healthcare,"Telemedicine, Digital Health",Medium,150,-1.50%,Medium,0.00%
+KROP,Global X AgTech & Food Innovation ETF,Invests in companies that are involved in agricultural technology and innovative food production.,0.5,Consumer Staples,"AgTech, Food Innovation",Medium,70,6.20%,Medium,0.00%
+BKCH,Global X Blockchain ETF,Provides exposure to companies positioned to benefit from the further development and utilization of blockchain technology.,0.5,Technology,"Blockchain, Crypto",High,150,40.00%,Very High,0.00%
+SNSR,First Trust Indxx IoT ETF,Focuses on companies involved in the Internet of Things (IoT).,0.7,Technology,"IoT, Connected Devices",Medium,200,10.00%,Medium,0.00%
+PMPY,Invesco Global Listed Private Equity ETF,Invests in publicly traded companies that are involved in private equity.,0.6,Financials,Private Equity,Medium,80,15.00%,Medium,2.00%
+LOUP,Innovative Technology & Lifestyles ETF,"Invests in companies leading innovation in areas such as AI, robotics, and future transportation.",0.75,Technology,"Innovation, Future Tech",High,40,12.00%,High,0.00%
+VCAR,ETFMG Electric Vehicles and Future Mobility ETF,"Provides exposure to companies involved in electric vehicles, autonomous driving, and future mobility.",0.6,Consumer Discretionary,"EVs, Autonomous Vehicles",High,90,-5.00%,High,0.00%
+SBUG,AXS Esoterica NextG ETF,Focuses on next-generation cybersecurity companies.,0.75,Technology,"Cybersecurity, NextGen Tech",High,30,18.00%,High,0.00%
+MILN,Global X Millennial Consumer ETF,Targets companies that cater to the spending habits of the millennial generation.,0.5,Consumer Discretionary,"Millennial Economy, Consumer Trends",Medium,60,-2.00%,Medium,0.00%
+AGNG,Global X Aging Population ETF,Invests in companies that stand to benefit from the needs of an aging global population.,0.5,Healthcare,"Aging Population, Healthcare",Low,100,3.50%,Low,0.50%
+QTUM,Defiance Quantum ETF,"Focuses on companies at the forefront of quantum computing, AI, and machine learning.",0.95,Technology,"Quantum Computing, AI",Very High,70,28.00%,Very High,0.00%
+WCLE,Wahed FTSE USA Shariah ETF,"Invests in Shariah-compliant U.S. companies across various sectors, aligning with ethical investing.",0.5,Multi-Sector,"Shariah-compliant, Ethical Investing",Medium,50,10.00%,Medium,1.50%
+GXTG,Global X Thematic Growth ETF,A multi-theme ETF providing exposure to various disruptive technologies and megatrends.,0.5,Multi-Sector,"Multi-Theme, Growth",Medium,100,15.00%,Medium,0.00%
+HBLK,Horizons Blockchain Technology ETF,Invests in companies engaged in the development and innovation of blockchain technology.,0.65,Technology,"Blockchain, Crypto",High,30,35.00%,Very High,0.00%
+FITE,SPDR S&P Kensho Future Security ETF,"Focuses on companies involved in cybersecurity, defense, and other future security technologies.",0.45,Technology,"Future Security, Cybersecurity",Medium,80,17.50%,Medium,0.00%
+XHE,SPDR S&P Health Care Equipment ETF,Invests in companies that are part of the healthcare equipment and supplies industry.,0.35,Healthcare,"Medical Devices, Healthcare Tech",Medium,500,8.00%,Medium,0.50%
+IBUY,Online Retail ETF,Tracks global companies that generate a substantial portion of their revenue from online retail.,0.75,Consumer Discretionary,"E-commerce, Online Retail",Medium,500,-10.00%,High,0.00%
+CTEC,Global X CleanTech ETF,"Invests in companies involved in various clean technologies, including smart grid, energy efficiency, and pollution control.",0.5,Industrials,"Clean Technology, Environment",Medium,90,-15.00%,Medium,0.00%
+KWEB,KraneShares CSI China Internet ETF,"Focuses on Chinese internet companies, including e-commerce, online gaming, and social media.",0.73,Communication Services,"China Internet, E-commerce",High,6000,-25.00%,Very High,0.50%
+MSOS,AdvisorShares Pure US Cannabis ETF,An actively managed ETF providing exposure to U.S. cannabis companies.,0.74,Healthcare,"Cannabis, Consumer Staples",Very High,800,-30.00%,Extremely High,0.00%
+FCOM,Fidelity MSCI Communication Services Index ETF,"Tracks the communication services sector, including media, entertainment, and telecom.",0.08,Communication Services,"Communication Services, Media",Low,1500,20.00%,Medium,1.00%
+IDNA,iShares Genomics Immunology and Healthcare ETF,"Focuses on companies at the forefront of genomics, immunology, and healthcare innovation.",0.47,Healthcare,"Genomics, Immunology, Biotech",High,300,-7.00%,High,0.00%
+GRID,First Trust Nasdaq Clean Edge Smart Grid Infra ETF,Invests in companies involved in smart grid and clean energy infrastructure.,0.6,Industrials,"Smart Grid, Clean Energy, Infrastructure",Medium,250,10.00%,Medium,0.80%
+FTXR,First Trust Indxx Innovative Transaction & Process ETF,"Focuses on companies involved in innovative transaction and process technologies, including blockchain.",0.65,Technology,"Blockchain, Transaction Tech",High,100,15.00%,High,0.00%
+GURU,Global X Guru Index ETF,Utilizes a quantitative model to identify and invest in the highest conviction ideas from hedge funds.,0.75,Multi-Sector,"Alpha, Hedge Fund Replication",Medium,50,7.00%,Medium,0.00%
+SOCL,Global X Social Media ETF,Tracks companies involved in social media platforms and related services.,0.65,Communication Services,"Social Media, Digital Advertising",Medium,200,18.00%,High,0.00%
+VGT,Vanguard Information Technology ETF,"Invests in companies in the information technology sector, including software, hardware, and IT services.",0.1,Technology,"Technology, Software, Hardware",Medium,60000,35.00%,Medium,0.70%
+XLV,Health Care Select Sector SPDR Fund,"Tracks the health care sector of the S&P 500, including pharmaceuticals, biotech, and equipment.",0.1,Healthcare,"Healthcare, Pharmaceuticals",Low,35000,12.00%,Low,1.40%
+XLC,Communication Services Select Sector SPDR Fund,"Tracks the communication services sector of the S&P 500, including telecom, media, and entertainment.",0.1,Communication Services,"Communication Services, Media",Medium,25000,20.00%,Medium,0.90%
+IXJ,iShares Global Healthcare ETF,"Provides exposure to global healthcare companies, including pharmaceuticals, biotechnology, and medical devices.",0.4,Healthcare,"Global Healthcare, Pharma",Low,2000,10.00%,Low,1.80%
+XLK,Technology Select Sector SPDR Fund,"Tracks the technology sector of the S&P 500, including software, hardware, and IT services.",0.1,Technology,"Technology, Software, Hardware",Medium,70000,38.00%,Medium,0.70%
+SMOG,VanEck Low Carbon Energy ETF,Focuses on companies involved in low carbon energy technologies.,0.6,Utilities,"Low Carbon Energy, Renewables",Medium,80,-10.00%,Medium,1.00%
+CHPT,Global X China Consumer ETF,Invests in companies that stand to benefit from the growth of the consumer sector in China.,0.65,Consumer Discretionary,China Consumption,Medium,100,-15.00%,High,0.20%
+KODK,Innovator S&P Kensho Electric Vehicles ETF,Focuses on companies involved in the electric vehicle ecosystem.,0.65,Consumer Discretionary,"EVs, Auto Tech",High,70,-8.00%,High,0.00%
+IPOS,Renaissance IPO ETF,Invests in the most significant and liquid newly public companies.,0.6,Multi-Sector,"IPOs, New Economies",High,300,5.00%,High,0.00%
+IBUY,Amplify Online Retail ETF,Tracks global companies that derive a majority of their revenue from online retail.,0.65,Consumer Discretionary,"E-commerce, Online Retail",Medium,500,-10.00%,High,0.00%
+DRIV,KraneShares Electric Vehicles & Future Mobility Index ETF,Focuses on electric vehicles and future mobility technologies.,0.65,Consumer Discretionary,"EVs, Future Mobility",High,150,-7.00%,High,0.00%
+GSIE,Goldman Sachs ActiveBeta® International Equity ETF,A multi-factor ETF investing in developed and emerging market equities. (Thematic for global diversification),0.25,Multi-Sector,"International, Multi-Factor",Medium,500,8.00%,Medium,2.50%
+SPDR,SPDR S&P Biotech ETF,Invests in the biotechnology segment of the S&P Total Market Index.,0.35,Healthcare,"Biotechnology, Pharma",High,7000,-1.00%,High,0.00%
+XBI,SPDR S&P Biotech ETF,"Another popular biotech ETF, similar to IBB but with different index construction.",0.35,Healthcare,"Biotechnology, Pharma",High,7000,-1.00%,High,0.00%
+IBB,iShares Biotechnology ETF,"Tracks the biotechnology sector, including companies engaged in research and development of drugs.",0.47,Healthcare,"Biotechnology, Pharma",High,8000,-3.00%,High,0.00%
+XLRE,Real Estate Select Sector SPDR Fund,Tracks the real estate sector of the S&P 500.,0.1,Real Estate,"Real Estate, REITs",Low,3000,5.00%,Low,3.50%
+XLF,Financial Select Sector SPDR Fund,Tracks the financial sector of the S&P 500.,0.1,Financials,"Financial Services, Banking",Medium,40000,18.00%,Medium,1.80%
+XLP,Consumer Staples Select Sector SPDR Fund,Tracks the consumer staples sector of the S&P 500.,0.1,Consumer Staples,"Consumer Staples, Food & Beverage",Low,15000,6.00%,Low,2.50%
+XLY,Consumer Discretionary Select Sector SPDR Fund,Tracks the consumer discretionary sector of the S&P 500.,0.1,Consumer Discretionary,"Consumer Discretionary, Retail",Medium,25000,22.00%,Medium,1.00%
+XLI,Industrial Select Sector SPDR Fund,Tracks the industrial sector of the S&P 500.,0.1,Industrials,"Industrials, Manufacturing",Medium,20000,15.00%,Medium,1.30%
+XLB,Materials Select Sector SPDR Fund,Tracks the materials sector of the S&P 500.,0.1,Basic Materials,"Materials, Chemicals",Medium,10000,10.00%,Medium,2.00%
+XLE,Energy Select Sector SPDR Fund,Tracks the energy sector of the S&P 500.,0.1,Energy,"Energy, Oil & Gas",High,30000,25.00%,High,3.80%
+XLU,Utilities Select Sector SPDR Fund,Tracks the utilities sector of the S&P 500.,0.1,Utilities,"Utilities, Power",Low,15000,4.00%,Low,3.00%
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,Focuses on the oil and gas exploration and production segment.,0.35,Energy,"Oil & Gas, Energy",Very High,5000,28.00%,Very High,1.50%
+GDX,VanEck Gold Miners ETF,Invests in companies involved in gold mining.,0.51,Basic Materials,"Gold, Mining",High,10000,-5.00%,High,1.20%
+SILJ,ETFMG Prime Junior Silver Miners ETF,"Focuses on smaller, junior silver mining companies.",0.69,Basic Materials,"Silver, Mining",Very High,300,-10.00%,Very High,0.50%
+PBW,Invesco WilderHill Clean Energy ETF,Tracks companies engaged in the clean energy sector.,0.7,Utilities,"Clean Energy, Renewables",High,800,-20.00%,High,0.00%
+FAN,First Trust Global Wind Energy ETF,Invests in companies that are involved in the global wind energy industry.,0.6,Utilities,"Wind Energy, Renewables",Medium,150,-18.00%,High,0.00%
+TAN,Invesco Solar ETF,Focuses on companies involved in the solar energy industry.,0.69,Utilities,"Solar Energy, Renewables",High,3000,-28.00%,Very High,0.00%
+QCLN,First Trust Nasdaq Clean Edge Green Energy Index Fund,Invests in U.S.-listed clean energy companies.,0.6,Multi-Sector,"Clean Energy, Green Tech",Medium,1500,-17.00%,Medium,0.00%
+SMOG,VanEck Green Bond ETF,"Invests in green bonds, which fund environmentally friendly projects.",0.2,Fixed Income,"Green Bonds, ESG",Low,100,2.00%,Low,1.80%
+ESGE,iShares ESG Aware MSCI Emerging Markets ETF,Invests in emerging market companies with favorable ESG characteristics.,0.25,Multi-Sector,"ESG, Emerging Markets",Medium,2000,5.00%,Medium,2.20%
+SUSA,iShares MSCI USA ESG Select ETF,"Focuses on U.S. companies with strong environmental, social, and governance (ESG) practices.",0.25,Multi-Sector,"ESG, Sustainable Investing",Low,3000,10.00%,Low,1.50%
+ESGU,iShares ESG Aware MSCI USA ETF,Tracks U.S. companies with positive ESG characteristics.,0.15,Multi-Sector,"ESG, Sustainable Investing",Low,25000,12.00%,Low,1.30%
+SHE,SPDR SSGA Gender Diversity Index ETF,Invests in U.S. companies that are leaders in gender diversity.,0.2,Multi-Sector,"Gender Diversity, ESG",Medium,300,9.00%,Medium,1.20%
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,Aims to track companies with lower carbon exposure.,0.2,Multi-Sector,"Low Carbon, ESG",Medium,500,8.00%,Medium,1.60%
+WOOD,iShares Global Timber & Forestry ETF,Invests in companies that own or manage timberlands and related forestry products.,0.47,Basic Materials,"Timber, Forestry, Natural Resources",Medium,300,6.00%,Medium,2.00%
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Focuses on global producers of industrial and precious metals.,0.39,Basic Materials,"Metals, Mining, Commodities",Medium,200,10.00%,Medium,2.50%
+VAW,Vanguard Materials ETF,Invests in companies in the basic materials sector.,0.1,Basic Materials,"Materials, Chemicals",Low,5000,9.00%,Low,2.00%
+REM,iShares Mortgage Real Estate ETF,Focuses on companies that invest in mortgages and real estate.,0.48,Real Estate,"Mortgage REITs, Real Estate",Medium,500,2.00%,Medium,8.00%
+REZ,iShares Residential Real Estate ETF,Invests in U.S. residential real estate companies.,0.48,Real Estate,"Residential Real Estate, REITs",Low,200,4.00%,Low,3.00%
+RWR,SPDR Dow Jones REIT ETF,Tracks the performance of the Dow Jones U.S. Real Estate Index.,0.25,Real Estate,"Real Estate, REITs",Low,2000,5.00%,Low,3.20%
+BIKR,Global X Nasdaq 100 Bike ETF,A hypothetical ETF focusing on the growing cycling and outdoor recreation industry.,0.65,Consumer Discretionary,"Cycling, Outdoor Recreation",Medium,50,8.00%,Medium,0.00%
+FUTY,Fidelity MSCI Utilities Index ETF,Tracks the utilities sector of the U.S. equity market.,0.08,Utilities,"Utilities, Power",Low,1000,4.50%,Low,3.20%
+FSTA,Fidelity MSCI Consumer Staples Index ETF,Tracks the consumer staples sector of the U.S. equity market.,0.08,Consumer Staples,"Consumer Staples, Food & Beverage",Low,1200,7.00%,Low,2.80%
+FNCL,Fidelity MSCI Financials Index ETF,Tracks the financials sector of the U.S. equity market.,0.08,Financials,"Financial Services, Banking",Medium,1500,19.00%,Medium,2.00%
+FHLC,Fidelity MSCI Health Care Index ETF,Tracks the healthcare sector of the U.S. equity market.,0.08,Healthcare,"Healthcare, Pharma",Low,1800,11.00%,Low,1.50%
+FMAT,Fidelity MSCI Materials Index ETF,Tracks the materials sector of the U.S. equity market.,0.08,Basic Materials,"Materials, Chemicals",Medium,800,11.00%,Medium,2.20%
+FCOM,Fidelity MSCI Communication Services Index ETF,Tracks the communication services sector of the U.S. equity market.,0.08,Communication Services,"Communication Services, Media",Low,1500,20.00%,Medium,1.00%
+FTEC,Fidelity MSCI Information Technology Index ETF,Tracks the information technology sector of the U.S. equity market.,0.08,Technology,"Technology, Software, Hardware",Medium,2000,37.00%,Medium,0.70%
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Tracks the consumer discretionary sector of the U.S. equity market.,0.08,Consumer Discretionary,"Consumer Discretionary, Retail",Medium,1400,23.00%,Medium,1.00%
+FENY,Fidelity MSCI Energy Index ETF,Tracks the energy sector of the U.S. equity market.,0.08,Energy,"Energy, Oil & Gas",High,1000,26.00%,High,4.00%
+FIDU,Fidelity MSCI Industrials Index ETF,Tracks the industrials sector of the U.S. equity market.,0.08,Industrials,"Industrials, Manufacturing",Medium,1100,16.00%,Medium,1.50%
+FREL,Fidelity MSCI Real Estate Index ETF,Tracks the real estate sector of the U.S. equity market.,0.08,Real Estate,"Real Estate, REITs",Low,500,5.50%,Low,3.50%
+IVV,iShares Core S&P 500 ETF,"Tracks the S&P 500 index, representing large-cap U.S. equities. (Not thematic, but a core holding)",0.03,Multi-Sector,"Broad Market, Large Cap",Low,400000,15.00%,Low,1.30%
+VEA,Vanguard FTSE Developed Markets ETF,"Invests in large, mid, and small-cap companies in developed international markets.",0.05,Multi-Sector,"Developed Markets, International",Medium,150000,7.00%,Medium,2.80%
+VWO,Vanguard FTSE Emerging Markets ETF,"Invests in large, mid, and small-cap companies in emerging markets.",0.08,Multi-Sector,"Emerging Markets, International",Medium,120000,5.00%,Medium,2.50%
+GLD,SPDR Gold Shares,Represents ownership in physical gold bullion stored in vaults.,0.4,Commodities,"Gold, Precious Metals",Medium,60000,10.00%,Medium,0.00%
+SLV,iShares Silver Trust,Represents ownership in physical silver bullion stored in vaults.,0.5,Commodities,"Silver, Precious Metals",Medium,10000,8.00%,Medium,0.00%
+USO,United States Oil Fund LP,Tracks the daily price movements of West Texas Intermediate (WTI) crude oil.,0.75,Commodities,"Oil, Energy",Very High,3000,20.00%,Very High,0.00%
+UNG,United States Natural Gas Fund LP,Tracks the daily price movements of natural gas.,1.35,Commodities,"Natural Gas, Energy",Extremely High,500,-15.00%,Extremely High,0.00%
+DBA,Invesco DB Agriculture Fund,Tracks a diversified basket of agricultural commodities.,0.85,Commodities,"Agriculture, Food",Medium,1000,5.00%,Medium,0.00%
+URA,Global X Uranium ETF,"Focuses on companies involved in the uranium industry, including mining and nuclear components.",0.69,Basic Materials,"Uranium, Nuclear Energy",High,1500,45.00%,Very High,0.00%
+GCL,Global X Gold Explorers ETF,Invests in companies primarily engaged in the exploration for gold.,0.65,Basic Materials,"Gold Exploration, Mining",Very High,80,-8.00%,Very High,0.00%
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Focuses on global producers of industrial and precious metals.,0.39,Basic Materials,"Metals, Mining, Commodities",Medium,200,10.00%,Medium,2.50%
+FTRI,First Trust Indxx Global Natural Resources Income ETF,Invests in income-generating companies in the natural resources sector.,0.7,Multi-Sector,"Natural Resources, Income",Medium,50,7.00%,Medium,3.00%
+REMX,VanEck Rare Earth/Strategic Metals ETF,"Tracks companies involved in the production, refining, and recycling of rare earth and strategic metals.",0.59,Basic Materials,"Rare Earth, Strategic Metals",High,1000,-12.00%,High,0.50%
+CUT,Invesco MSCI Global Timber ETF,Focuses on companies in the global timber and forest products industry.,0.65,Basic Materials,"Timber, Forestry",Medium,80,7.00%,Medium,2.00%
+XLV,Health Care Select Sector SPDR Fund,Tracks the health care sector of the S&P 500.,0.1,Healthcare,"Healthcare, Pharma",Low,35000,12.00%,Low,1.40%
+IBB,iShares Biotechnology ETF,Tracks the biotechnology sector.,0.47,Healthcare,"Biotechnology, Pharma",High,8000,-3.00%,High,0.00%
+PBE,Invesco Dynamic Biotechnology & Genome ETF,Focuses on companies involved in biotechnology and genomics.,0.59,Healthcare,"Biotechnology, Genomics",High,200,-6.00%,High,0.00%
+XHE,SPDR S&P Health Care Equipment ETF,Invests in companies in the healthcare equipment and supplies industry.,0.35,Healthcare,"Medical Devices, Healthcare Tech",Medium,500,8.00%,Medium,0.50%
+IXJ,iShares Global Healthcare ETF,Provides exposure to global healthcare companies.,0.4,Healthcare,"Global Healthcare, Pharma",Low,2000,10.00%,Low,1.80%
+KOL,VanEck Coal ETF,Focuses on companies involved in the coal industry.,0.65,Energy,"Coal, Fossil Fuels",Very High,150,25.00%,Very High,3.00%
+OIH,VanEck Oil Services ETF,Invests in companies that provide services to the oil and gas industry.,0.35,Energy,"Oil Services, Energy",High,3000,20.00%,High,1.00%
+GDXJ,VanEck Junior Gold Miners ETF,Focuses on smaller gold mining companies.,0.54,Basic Materials,"Gold, Junior Mining",Very High,4000,-10.00%,Very High,0.80%
+SIL,Global X Silver Miners ETF,Invests in companies that mine silver.,0.65,Basic Materials,"Silver, Mining",High,500,-8.00%,High,1.00%
+MOO,VanEck Agribusiness ETF,Focuses on companies in the global agribusiness industry.,0.53,Consumer Staples,"Agribusiness, Agriculture",Medium,1000,5.00%,Medium,1.50%
+GUNR,FlexShares Global Upstream Natural Resources Index Fund,Invests in companies that own or produce natural resources globally.,0.48,Multi-Sector,"Natural Resources, Commodities",Medium,1000,12.00%,Medium,2.50%
+PHO,Invesco Water Resources ETF,Focuses on companies that create products designed to conserve and purify water.,0.59,Utilities,"Water, Infrastructure",Low,1800,7.80%,Low,0.85%
+BATT,Amplify Lithium & Battery Technology ETF,Invests in companies involved in lithium and battery technology.,0.59,Basic Materials,"Lithium, Battery Technology, EVs",High,200,-18.00%,High,0.00%
+FTXO,First Trust Nasdaq Oil & Gas Exploration & Production ETF,Focuses on oil and gas exploration and production companies.,0.6,Energy,"Oil & Gas, Energy",High,100,22.00%,High,1.80%
+FAN,First Trust Global Wind Energy ETF,Invests in companies involved in the global wind energy industry.,0.6,Utilities,"Wind Energy, Renewables",Medium,150,-18.00%,High,0.00%
+CNRG,SPDR S&P Kensho Clean Power ETF,Invests in companies involved in clean power generation and technology.,0.45,Utilities,"Clean Power, Renewables",Medium,80,-15.00%,Medium,0.00%
+GHYG,Nuveen Short-Term High Yield ETF,Invests in short-term high-yield corporate bonds. (Thematic if focused on credit cycle),0.35,Fixed Income,"High Yield Bonds, Income",Medium,200,3.00%,Low,5.00%
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Tracks a high-yield corporate bond index. (Thematic if focused on credit cycle),0.48,Fixed Income,"High Yield Bonds, Income",Medium,12000,4.00%,Low,5.50%
+JNK,SPDR Bloomberg High Yield Bond ETF,Another popular high-yield corporate bond ETF. (Thematic if focused on credit cycle),0.4,Fixed Income,"High Yield Bonds, Income",Medium,8000,4.20%,Low,5.30%
+TLT,iShares 20+ Year Treasury Bond ETF,Invests in long-term U.S. Treasury bonds. (Thematic if focused on interest rate trends),0.15,Fixed Income,"Long-term Bonds, Interest Rates",Low,30000,-5.00%,Medium,4.50%
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Invests in investment-grade intermediate-term corporate bonds.,0.04,Fixed Income,"Corporate Bonds, Income",Low,40000,1.50%,Low,3.80%
+BND,Vanguard Total Bond Market ETF,Tracks the total U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Tracks an index of U.S. dollar-denominated investment-grade corporate bonds.,0.14,Fixed Income,"Corporate Bonds, Income",Low,30000,2.50%,Low,4.20%
+MBB,iShares MBS ETF,Invests in U.S. agency mortgage-backed securities (MBS).,0.05,Fixed Income,"MBS, Real Estate Debt",Low,20000,1.00%,Low,3.70%
+TIP,iShares TIPS Bond ETF,Invests in U.S. Treasury Inflation-Protected Securities (TIPS).,0.19,Fixed Income,"Inflation Protection, TIPS",Low,25000,0.50%,Low,2.50%
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Focuses on short-term TIPS.,0.05,Fixed Income,"Inflation Protection, Short-term TIPS",Low,15000,0.80%,Low,2.30%
+MUNI,PIMCO Municipal Bond Income Active ETF,Actively managed ETF investing in municipal bonds.,0.55,Fixed Income,"Municipal Bonds, Tax-Exempt Income",Low,500,3.00%,Low,2.80%
+TFI,iShares Short-Term National Muni Bond ETF,Invests in short-term municipal bonds across the U.S.,0.1,Fixed Income,"Municipal Bonds, Short-term",Low,5000,1.50%,Low,2.00%
+HYDD,Global X SuperDividend® U.S. ETF,Invests in 50 of the highest dividend-yielding equity securities in the U.S.,0.45,Multi-Sector,"High Dividend, Income",Medium,200,6.00%,Medium,5.80%
+SRET,Global X SuperDividend® REIT ETF,Invests in 30 of the highest dividend-yielding REITs globally.,0.6,Real Estate,"High Dividend, REITs",Medium,300,3.00%,Medium,7.50%
+SDIV,Global X SuperDividend® ETF,Invests in 100 of the highest dividend-yielding equity securities in the world.,0.59,Multi-Sector,"High Dividend, Global Income",Medium,800,4.00%,Medium,6.00%
+DIV,Global X S&P 500 Quality Dividend ETF,Focuses on S&P 500 companies with high quality and sustainable dividends.,0.2,Multi-Sector,"Quality Dividend, Income",Low,100,8.00%,Low,2.80%
+DGRO,iShares Core Dividend Growth ETF,Invests in U.S. companies with a consistent history of growing dividends.,0.08,Multi-Sector,"Dividend Growth, Income",Low,30000,10.00%,Low,2.20%
+VYM,Vanguard High Dividend Yield ETF,Tracks an index of U.S. companies that have high dividend yields.,0.06,Multi-Sector,"High Dividend, Income",Low,50000,8.50%,Low,3.00%
+HDV,iShares Core High Dividend ETF,Invests in U.S. equities that have a high dividend yield.,0.08,Multi-Sector,"High Dividend, Income",Low,15000,7.00%,Low,3.20%
+SCHD,Schwab U.S. Dividend Equity ETF,Tracks companies with a record of paying consistent dividends.,0.06,Multi-Sector,"Dividend Equity, Income",Low,60000,11.00%,Low,3.00%
+PFF,iShares Preferred and Income Securities ETF,Invests in preferred stocks and other income-generating securities.,0.46,Fixed Income,"Preferred Stock, Income",Low,18000,5.00%,Low,5.80%
+PGX,Invesco Preferred ETF,Tracks a market-value-weighted index of preferred stocks.,0.5,Fixed Income,"Preferred Stock, Income",Low,7000,5.20%,Low,5.70%
+CATH,Global X S&P 500 Catholic Values ETF,Invests in S&P 500 companies that adhere to Catholic values principles.,0.29,Multi-Sector,"ESG, Catholic Values",Medium,100,14.00%,Medium,1.30%
+KRMA,Global X Conscious Companies ETF,Invests in companies that demonstrate strong ESG and stakeholder alignment.,0.45,Multi-Sector,"ESG, Conscious Capitalism",Medium,50,10.00%,Medium,0.50%
+DBLN,Global X MSCI Latin America ETF,Invests in companies in Latin American countries.,0.49,Multi-Region,"Latin America, Emerging Markets",High,80,-5.00%,High,2.50%
+TUR,iShares MSCI Turkey ETF,Provides exposure to equity markets in Turkey.,0.59,Multi-Region,"Turkey, Emerging Markets",Very High,100,20.00%,Extremely High,3.00%
+EWZ,iShares MSCI Brazil ETF,Provides exposure to equity markets in Brazil.,0.59,Multi-Region,"Brazil, Emerging Markets",High,5000,10.00%,Very High,3.50%
+EEM,iShares MSCI Emerging Markets ETF,Tracks a broad range of emerging market equities.,0.68,Multi-Region,"Emerging Markets, Global",Medium,20000,6.00%,Medium,2.20%
+IEMG,iShares Core MSCI Emerging Markets ETF,A core ETF for emerging markets exposure with lower expense.,0.11,Multi-Region,"Emerging Markets, Global",Medium,90000,7.00%,Medium,2.00%
+EFA,iShares MSCI EAFE ETF,Tracks developed markets outside of North America.,0.35,Multi-Region,"Developed Markets, International",Medium,50000,8.00%,Medium,2.80%
+VEA,Vanguard FTSE Developed Markets ETF,"Invests in large, mid, and small-cap companies in developed international markets.",0.05,Multi-Region,"Developed Markets, International",Medium,150000,7.00%,Medium,2.80%
+IJH,iShares Core S&P Mid-Cap ETF,Tracks the S&P MidCap 400 Index.,0.05,Multi-Sector,"Mid Cap, US Equity",Low,70000,12.00%,Medium,1.20%
+IJR,iShares Core S&P Small-Cap ETF,Tracks the S&P SmallCap 600 Index.,0.07,Multi-Sector,"Small Cap, US Equity",Medium,60000,8.00%,Medium,1.00%
+IVOO,Vanguard S&P Mid-Cap 400 ETF,Tracks the S&P Mid-Cap 400 Index.,0.1,Multi-Sector,"Mid Cap, US Equity",Low,5000,11.50%,Medium,1.20%
+IWM,iShares Russell 2000 ETF,"Tracks the Russell 2000 Index, representing small-cap U.S. equities.",0.19,Multi-Sector,"Small Cap, US Equity",Medium,55000,7.00%,Medium,1.00%
+VBR,Vanguard Small-Cap Value ETF,Invests in small-cap value stocks in the U.S.,0.07,Multi-Sector,"Small Cap, Value",Medium,30000,9.00%,Medium,1.50%
+VBK,Vanguard Small-Cap Growth ETF,Invests in small-cap growth stocks in the U.S.,0.07,Multi-Sector,"Small Cap, Growth",Medium,20000,6.00%,Medium,0.80%
+VONG,Vanguard S&P 500 Growth ETF,Tracks the S&P 500 Growth Index.,0.1,Multi-Sector,"Large Cap, Growth",Medium,40000,25.00%,Medium,0.50%
+VONV,Vanguard S&P 500 Value ETF,Tracks the S&P 500 Value Index.,0.1,Multi-Sector,"Large Cap, Value",Low,30000,8.00%,Low,2.50%
+MGK,Vanguard Mega Cap Growth ETF,Invests in mega-cap growth stocks.,0.07,Multi-Sector,"Mega Cap, Growth",Medium,15000,28.00%,Medium,0.40%
+MGV,Vanguard Mega Cap Value ETF,Invests in mega-cap value stocks.,0.07,Multi-Sector,"Mega Cap, Value",Low,10000,9.00%,Low,2.60%
+ACWV,iShares Edge MSCI Min Vol Global ETF,Seeks to track global equities with lower volatility characteristics.,0.2,Multi-Sector,"Low Volatility, Global",Low,1000,6.00%,Low,2.00%
+SPLV,Invesco S&P 500 Low Volatility ETF,Tracks the S&P 500 companies with the lowest volatility.,0.25,Multi-Sector,"Low Volatility, US Equity",Low,9000,5.00%,Low,2.50%
+USMV,iShares MSCI USA Min Vol Factor ETF,Focuses on U.S. equities with lower volatility characteristics.,0.15,Multi-Sector,"Low Volatility, US Equity",Low,30000,7.00%,Low,2.30%
+QUAL,iShares MSCI USA Quality Factor ETF,"Tracks U.S. companies with high quality characteristics (e.g., stable earnings, low debt).",0.15,Multi-Sector,"Quality Factor, US Equity",Low,30000,15.00%,Low,1.00%
+VLUE,iShares MSCI USA Value Factor ETF,Focuses on U.S. companies with lower valuations based on fundamental factors.,0.15,Multi-Sector,"Value Factor, US Equity",Medium,15000,10.00%,Medium,2.00%
+MTUM,iShares MSCI USA Momentum Factor ETF,Tracks U.S. companies exhibiting strong price momentum.,0.15,Multi-Sector,"Momentum Factor, US Equity",Medium,20000,20.00%,Medium,0.50%
+SIZE,iShares MSCI USA Size Factor ETF,Focuses on U.S. companies based on their market capitalization.,0.15,Multi-Sector,"Size Factor, US Equity",Medium,500,8.00%,Medium,1.20%
+GSLC,Goldman Sachs ActiveBeta® U.S. Large Cap Equity ETF,A multi-factor ETF investing in large-cap U.S. equities.,0.09,Multi-Sector,"Multi-Factor, US Equity",Low,10000,14.00%,Low,1.30%
+ONEQ,Fidelity Nasdaq Composite Index ETF,"Tracks the Nasdaq Composite Index, including all Nasdaq-listed stocks.",0.21,Multi-Sector,"Tech-heavy, Broad Market",Medium,500,20.00%,Medium,0.80%
+FNCM,Fidelity Nasdaq Composite Index ETF,"Similar to ONEQ, tracks the Nasdaq Composite Index.",0.21,Multi-Sector,"Tech-heavy, Broad Market",Medium,500,20.00%,Medium,0.80%
+QQQ,Invesco QQQ Trust,"Tracks the Nasdaq-100 Index, composed of the 100 largest non-financial companies on Nasdaq.",0.2,Technology,"Large Cap Tech, Growth",High,250000,35.00%,High,0.50%
+SPY,SPDR S&P 500 ETF Trust,Tracks the S&P 500 Index.,0.09,Multi-Sector,"Broad Market, Large Cap",Low,500000,15.00%,Low,1.30%
+DIA,SPDR Dow Jones Industrial Average ETF Trust,Tracks the Dow Jones Industrial Average.,0.16,Multi-Sector,"Blue Chip, Large Cap",Low,30000,12.00%,Low,1.80%
+TLT,iShares 20+ Year Treasury Bond ETF,Invests in long-term U.S. Treasury bonds.,0.15,Fixed Income,"Long-term Bonds, Interest Rates",Low,30000,-5.00%,Medium,4.50%
+SHY,iShares 1-3 Year Treasury Bond ETF,Invests in short-term U.S. Treasury bonds.,0.15,Fixed Income,"Short-term Bonds, Interest Rates",Low,20000,1.00%,Low,5.00%
+IEF,iShares 7-10 Year Treasury Bond ETF,Invests in intermediate-term U.S. Treasury bonds.,0.15,Fixed Income,"Intermediate-term Bonds, Interest Rates",Low,15000,0.50%,Low,4.70%
+AGG,iShares Core U.S. Aggregate Bond ETF,Tracks the broad U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+BND,Vanguard Total Bond Market ETF,Tracks the total U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+TIP,iShares TIPS Bond ETF,Invests in U.S. Treasury Inflation-Protected Securities (TIPS).,0.19,Fixed Income,"Inflation Protection, TIPS",Low,25000,0.50%,Low,2.50%
+CWB,SPDR Barclays Convertible Securities ETF,Invests in convertible bonds.,0.4,Fixed Income,"Convertible Bonds, Hybrid Securities",Medium,5000,8.00%,Medium,3.00%
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Invests in U.S. dollar-denominated emerging market sovereign bonds.,0.39,Fixed Income,"Emerging Market Debt, Income",Medium,10000,3.00%,Medium,6.00%
+PCY,Invesco Emerging Markets Sovereign Debt ETF,Another ETF focused on emerging market sovereign debt.,0.5,Fixed Income,"Emerging Market Debt, Income",Medium,2000,3.20%,Medium,6.20%
+VWOB,Vanguard Emerging Markets Government Bond ETF,Invests in U.S. dollar-denominated government bonds from emerging markets.,0.2,Fixed Income,"Emerging Market Debt, Income",Medium,5000,3.50%,Medium,5.80%
+BNDX,Vanguard Total International Bond ETF,Tracks the total non-U.S. dollar-denominated investment-grade bond market.,0.08,Fixed Income,"International Bonds, Global Diversification",Low,50000,1.00%,Low,1.80%
+IAGG,BlackRock Aggregate Bond ETF,Invests in a broad range of global investment-grade bonds.,0.08,Fixed Income,"Global Bonds, Diversification",Low,1000,1.50%,Low,2.00%
+HYLD,YieldShares High Income ETF,A multi-asset class income ETF that invests in various high-income strategies.,1.65,Multi-Asset,"High Income, Multi-Asset",Medium,50,7.00%,Medium,7.00%
+ALTY,Global X Alternative Income ETF,Invests in alternative income-generating asset classes.,0.75,Multi-Asset,"Alternative Income, Diversification",Medium,30,5.00%,Medium,4.00%
+QYLD,Global X Nasdaq 100 Covered Call ETF,Generates income by selling covered calls on the Nasdaq 100 index.,0.6,Technology,"Covered Call, Income",Medium,7000,15.00%,Low,12.00%
+RYLD,Global X Russell 2000 Covered Call ETF,Generates income by selling covered calls on the Russell 2000 index.,0.6,Multi-Sector,"Covered Call, Income",Medium,500,10.00%,Medium,10.00%
+XYLD,Global X S&P 500 Covered Call ETF,Generates income by selling covered calls on the S&P 500 index.,0.6,Multi-Sector,"Covered Call, Income",Medium,2000,12.00%,Low,10.00%
+JEPI,JPMorgan Equity Premium Income ETF,Actively managed ETF generating income through options and equity exposure.,0.35,Multi-Sector,"Income, Options Strategy",Medium,30000,15.00%,Low,8.00%
+TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Combines long-term Treasury bonds with covered calls for income.,0.35,Fixed Income,"Covered Call, Income, Bonds",Low,500,8.00%,Low,10.00%
+FNGS,MicroSectors FANG+ Index 3X Leveraged ETN,Provides 3x leveraged exposure to the FANG+ Index. (Leveraged products carry extreme risk),0.95,Technology,"Leveraged Tech, FANG",Extremely High,500,80.00%,Extremely High,0.00%
+SOXL,Direxion Daily Semiconductor Bull 3X Shares,Provides 3x leveraged exposure to a semiconductor index. (Leveraged products carry extreme risk),0.93,Technology,"Leveraged Semis, Growth",Extremely High,10000,150.00%,Extremely High,0.00%
+SQQQ,ProShares UltraPro Short QQQ,Provides -3x leveraged inverse exposure to the Nasdaq 100 Index. (Leveraged products carry extreme risk),0.95,Technology,"Leveraged Inverse, Nasdaq",Extremely High,5000,-90.00%,Extremely High,0.00%
+TQQQ,ProShares UltraPro QQQ,Provides 3x leveraged exposure to the Nasdaq 100 Index. (Leveraged products carry extreme risk),0.95,Technology,"Leveraged Tech, Nasdaq",Extremely High,20000,90.00%,Extremely High,0.00%
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,"Provides leveraged exposure to short-term VIX futures, a volatility measure.",1.65,Multi-Sector,"Volatility, Futures",Extremely High,800,-70.00%,Extremely High,0.00%
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,Tracks short-term VIX futures. (Volatility products carry extreme risk),0.89,Multi-Sector,"Volatility, Futures",Extremely High,500,-50.00%,Extremely High,0.00%
+UPRO,ProShares UltraPro S&P500,Provides 3x leveraged exposure to the S&P 500 Index. (Leveraged products carry extreme risk),0.95,Multi-Sector,Leveraged Broad Market,Extremely High,3000,50.00%,Extremely High,0.00%
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,Provides -3x leveraged inverse exposure to the S&P 500 Index. (Leveraged products carry extreme risk),1,Multi-Sector,Leveraged Inverse Broad Market,Extremely High,500,-40.00%,Extremely High,0.00%
+PBW,Invesco WilderHill Clean Energy ETF,Tracks companies engaged in the clean energy sector.,0.7,Utilities,"Clean Energy, Renewables",High,800,-20.00%,High,0.00%
+LIT,Global X Lithium & Battery Tech ETF,"Tracks companies involved in the full lithium cycle, from mining to battery production.",0.75,Basic Materials,"Lithium, Battery Technology, EVs",Medium,3000,-20.10%,High,0.55%
+IBUY,Amplify Online Retail ETF,Tracks global companies that generate a majority of their revenue from online retail.,0.65,Consumer Discretionary,"E-commerce, Online Retail",Medium,500,-10.00%,High,0.00%
+ARKW,ARK Next Generation Internet ETF,"Actively managed, focuses on companies benefiting from disruptive innovation in the internet.",0.75,Technology,"NextGen Internet, Innovation",High,4000,20.00%,Very High,0.00%
+ARKF,ARK FinTech Innovation ETF,Actively managed fund focusing on companies involved in financial technology.,0.75,Financials,"FinTech, Innovation",High,900,-3.50%,High,0.00%
+ARKQ,ARK Autonomous Technology & Robotics ETF,"Actively managed, invests in companies involved in autonomous tech, robotics, 3D printing, and energy storage.",0.75,Industrials,"Robotics, Autonomous Tech, AI",High,1500,15.00%,High,0.00%
+ARKK,ARK Innovation ETF,An actively managed ETF that invests in disruptive innovation across various sectors.,0.75,Multi-Sector,"Disruptive Innovation, Tech",High,8000,-10.00%,Very High,0.00%
+BLOK,Amplify Transformational Data Sharing ETF,"Actively managed, invests in companies involved in blockchain technology and cryptocurrency ecosystems.",0.71,Technology,"Blockchain, Crypto",Very High,500,35.00%,Extremely High,0.00%
+BTEC,SPDR S&P Kensho Biotech ETF,Invests in companies focused on biotechnological innovation.,0.2,Healthcare,"Biotechnology, Genomics",High,100,-5.00%,High,0.00%
+CNDA,First Trust Chindia ETF,"Focuses on companies in China and India, aiming to capture growth in these emerging economies.",0.7,Multi-Region,"China, India, Emerging Markets",High,50,5.00%,High,0.00%
+CIBR,First Trust NASDAQ Cybersecurity ETF,Tracks companies involved in cybersecurity.,0.6,Technology,Cybersecurity,Medium,4000,20.50%,Medium,0.00%
+COMP,iShares Core S&P Completion Index ETF,"Tracks the S&P Completion Index, representing small and mid-cap U.S. equities not in the S&P 500.",0.04,Multi-Sector,"Small/Mid Cap, US Equity",Medium,1000,10.00%,Medium,1.10%
+CRYP,Bitwise Crypto Industry Innovators ETF,Invests in public companies that are crypto innovators.,0.85,Technology,"Cryptocurrency, Blockchain",Extremely High,100,50.00%,Extremely High,0.00%
+DTEC,ALPS Disruptive Technologies ETF,Focuses on companies across various disruptive technology themes.,0.5,Multi-Sector,"Disruptive Tech, Innovation",High,200,18.00%,High,0.00%
+EELV,Invesco S&P Emerging Markets Low Volatility ETF,Tracks emerging market companies with low volatility.,0.49,Multi-Region,"Low Volatility, Emerging Markets",Medium,50,3.00%,Medium,2.80%
+ESPO,VanEck Video Gaming and eSports ETF,Seeks to replicate the price and yield performance of the MVIS Global Video Gaming and eSports Index.,0.55,Communication Services,"Gaming, Esports, Digital Entertainment",Medium,400,10.20%,Medium,0.00%
+FBT,First Trust Amex Biotech ETF,Focuses on biotechnology companies listed on the NYSE Amex.,0.6,Healthcare,"Biotechnology, Pharma",High,500,-2.00%,High,0.00%
+GCOW,Pacer Global Cash Cows Dividend ETF,Invests in companies worldwide with high free cash flow yields and dividend payments.,0.6,Multi-Sector,"Cash Flow, Dividend",Medium,200,10.00%,Low,3.50%
+GINN,Goldman Sachs ActiveBeta® International Equity ETF,A multi-factor ETF investing in developed and emerging market equities.,0.25,Multi-Sector,"International, Multi-Factor",Medium,500,8.00%,Medium,2.50%
+IPAY,ETFMG Prime Mobile Payments ETF,Targets companies positioned to benefit from the increasing adoption of mobile payment technology.,0.75,Technology,"Mobile Payments, FinTech",Medium,300,8.10%,Medium,0.00%
+KCE,SPDR S&P Capital Markets ETF,Focuses on the capital markets segment of the financial sector.,0.35,Financials,"Capital Markets, FinTech",Medium,100,16.00%,Medium,1.00%
+KIE,SPDR S&P Insurance ETF,Focuses on the insurance segment of the financial sector.,0.35,Financials,Insurance,Low,500,12.00%,Low,1.50%
+KME,SPDR S&P Mortgage Finance ETF,Focuses on the mortgage finance segment of the financial sector.,0.35,Financials,"Mortgage Finance, Real Estate",Medium,50,5.00%,Medium,2.50%
+KRO,Invesco KBW Regional Banking ETF,Focuses on regional banks in the U.S.,0.35,Financials,"Regional Banks, Financials",Medium,1000,15.00%,Medium,2.00%
+KWEB,KraneShares CSI China Internet ETF,Focuses on Chinese internet companies.,0.73,Communication Services,"China Internet, E-commerce",High,6000,-25.00%,Very High,0.50%
+PHO,Invesco Water Resources ETF,Focuses on companies that create products designed to conserve and purify water.,0.59,Utilities,"Water, Infrastructure",Low,1800,7.80%,Low,0.85%
+PMPT,VanEck Precious Metals and Mining ETF,Invests in companies engaged in the exploration and production of precious metals.,0.5,Basic Materials,"Precious Metals, Mining",High,100,5.00%,High,1.00%
+REMX,VanEck Rare Earth/Strategic Metals ETF,Tracks companies involved in rare earth and strategic metals.,0.59,Basic Materials,"Rare Earth, Strategic Metals",High,1000,-12.00%,High,0.50%
+SDIV,Global X SuperDividend® ETF,Invests in 100 of the highest dividend-yielding equity securities in the world.,0.59,Multi-Sector,"High Dividend, Global Income",Medium,800,4.00%,Medium,6.00%
+SKYY,First Trust Cloud Computing ETF,Invests in companies involved in cloud computing.,0.6,Technology,"Cloud Computing, Software",Medium,3000,14.00%,Medium,0.00%
+SMH,VanEck Semiconductor ETF,Invests in companies involved in the semiconductor industry.,0.35,Technology,"Semiconductors, Hardware",Medium,20000,55.00%,Medium,0.80%
+TAN,Invesco Solar ETF,Focuses on companies involved in the solar energy industry.,0.69,Utilities,"Solar Energy, Renewables",High,3000,-28.00%,Very High,0.00%
+TARK,AXS 2X Innovation ETF,Provides 2x leveraged exposure to an index of innovative companies. (Leveraged products carry extreme risk),1,Multi-Sector,Leveraged Innovation,Extremely High,50,-20.00%,Extremely High,0.00%
+URNM,Sprott Uranium Miners ETF,Focuses on companies in the uranium mining industry.,0.85,Basic Materials,"Uranium, Nuclear Energy",High,2000,48.00%,Very High,0.00%
+UUUU,"Uranium Royalty Corp. (This is a stock, not an ETF, illustrating a common confusion)",A uranium royalty and streaming company. (Not an ETF),N/A,Basic Materials,"Uranium, Royalties",High,500,30.00%,High,0.00%
+VGT,Vanguard Information Technology ETF,Invests in companies in the information technology sector.,0.1,Technology,"Technology, Software, Hardware",Medium,60000,35.00%,Medium,0.70%
+WCLD,WisdomTree Cloud Computing Fund,Tracks cloud computing companies.,0.45,Technology,"Cloud Computing, Software",Medium,1000,16.00%,Medium,0.00%
+XITK,SPDR FactSet Innovative Technology ETF,Focuses on companies with exposure to innovative technology themes.,0.45,Technology,"Innovative Tech, Disruptive Tech",High,200,17.00%,High,0.00%
+BKNG,Global X Blockchain ETF,"Similar to BLOK, focuses on blockchain technology and cryptocurrency ecosystems.",0.5,Technology,"Blockchain, Crypto",Very High,150,40.00%,Extremely High,0.00%
+FUTY,Fidelity MSCI Utilities Index ETF,Tracks the utilities sector of the U.S. equity market.,0.08,Utilities,"Utilities, Power",Low,1000,4.50%,Low,3.20%
+FSTA,Fidelity MSCI Consumer Staples Index ETF,Tracks the consumer staples sector of the U.S. equity market.,0.08,Consumer Staples,"Consumer Staples, Food & Beverage",Low,1200,7.00%,Low,2.80%
+FNCL,Fidelity MSCI Financials Index ETF,Tracks the financials sector of the U.S. equity market.,0.08,Financials,"Financial Services, Banking",Medium,1500,19.00%,Medium,2.00%
+FHLC,Fidelity MSCI Health Care Index ETF,Tracks the healthcare sector of the U.S. equity market.,0.08,Healthcare,"Healthcare, Pharma",Low,1800,11.00%,Low,1.50%
+FMAT,Fidelity MSCI Materials Index ETF,Tracks the materials sector of the U.S. equity market.,0.08,Basic Materials,"Materials, Chemicals",Medium,800,11.00%,Medium,2.20%
+FCOM,Fidelity MSCI Communication Services Index ETF,Tracks the communication services sector of the U.S. equity market.,0.08,Communication Services,"Communication Services, Media",Low,1500,20.00%,Medium,1.00%
+FTEC,Fidelity MSCI Information Technology Index ETF,Tracks the information technology sector of the U.S. equity market.,0.08,Technology,"Technology, Software, Hardware",Medium,2000,37.00%,Medium,0.70%
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Tracks the consumer discretionary sector of the U.S. equity market.,0.08,Consumer Discretionary,"Consumer Discretionary, Retail",Medium,1400,23.00%,Medium,1.00%
+FENY,Fidelity MSCI Energy Index ETF,Tracks the energy sector of the U.S. equity market.,0.08,Energy,"Energy, Oil & Gas",High,1000,26.00%,High,4.00%
+FIDU,Fidelity MSCI Industrials Index ETF,Tracks the industrials sector of the U.S. equity market.,0.08,Industrials,"Industrials, Manufacturing",Medium,1100,16.00%,Medium,1.50%
+FREL,Fidelity MSCI Real Estate Index ETF,Tracks the real estate sector of the U.S. equity market.,0.08,Real Estate,"Real Estate, REITs",Low,500,5.50%,Low,3.50%
+IVV,iShares Core S&P 500 ETF,Tracks the S&P 500 index.,0.03,Multi-Sector,"Broad Market, Large Cap",Low,400000,15.00%,Low,1.30%
+VEA,Vanguard FTSE Developed Markets ETF,"Invests in large, mid, and small-cap companies in developed international markets.",0.05,Multi-Sector,"Developed Markets, International",Medium,150000,7.00%,Medium,2.80%
+VWO,Vanguard FTSE Emerging Markets ETF,"Invests in large, mid, and small-cap companies in emerging markets.",0.08,Multi-Sector,"Emerging Markets, International",Medium,120000,5.00%,Medium,2.50%
+GLD,SPDR Gold Shares,Represents ownership in physical gold bullion stored in vaults.,0.4,Commodities,"Gold, Precious Metals",Medium,60000,10.00%,Medium,0.00%
+SLV,iShares Silver Trust,Represents ownership in physical silver bullion stored in vaults.,0.5,Commodities,"Silver, Precious Metals",Medium,10000,8.00%,Medium,0.00%
+USO,United States Oil Fund LP,Tracks the daily price movements of West Texas Intermediate (WTI) crude oil.,0.75,Commodities,"Oil, Energy",Very High,3000,20.00%,Very High,0.00%
+UNG,United States Natural Gas Fund LP,Tracks the daily price movements of natural gas.,1.35,Commodities,"Natural Gas, Energy",Extremely High,500,-15.00%,Extremely High,0.00%
+DBA,Invesco DB Agriculture Fund,Tracks a diversified basket of agricultural commodities.,0.85,Commodities,"Agriculture, Food",Medium,1000,5.00%,Medium,0.00%
+URA,Global X Uranium ETF,"Focuses on companies involved in the uranium industry, including mining and nuclear components.",0.69,Basic Materials,"Uranium, Nuclear Energy",High,1500,45.00%,Very High,0.00%
+GCL,Global X Gold Explorers ETF,Invests in companies primarily engaged in the exploration for gold.,0.65,Basic Materials,"Gold Exploration, Mining",Very High,80,-8.00%,Very High,0.00%
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Focuses on global producers of industrial and precious metals.,0.39,Basic Materials,"Metals, Mining, Commodities",Medium,200,10.00%,Medium,2.50%
+FTRI,First Trust Indxx Global Natural Resources Income ETF,Invests in income-generating companies in the natural resources sector.,0.7,Multi-Sector,"Natural Resources, Income",Medium,50,7.00%,Medium,3.00%
+REMX,VanEck Rare Earth/Strategic Metals ETF,"Tracks companies involved in the production, refining, and recycling of rare earth and strategic metals.",0.59,Basic Materials,"Rare Earth, Strategic Metals",High,1000,-12.00%,High,0.50%
+CUT,Invesco MSCI Global Timber ETF,Focuses on companies in the global timber and forest products industry.,0.65,Basic Materials,"Timber, Forestry",Medium,80,7.00%,Medium,2.00%
+XLV,Health Care Select Sector SPDR Fund,Tracks the health care sector of the S&P 500.,0.1,Healthcare,"Healthcare, Pharma",Low,35000,12.00%,Low,1.40%
+IBB,iShares Biotechnology ETF,Tracks the biotechnology sector.,0.47,Healthcare,"Biotechnology, Pharma",High,8000,-3.00%,High,0.00%
+PBE,Invesco Dynamic Biotechnology & Genome ETF,Focuses on companies involved in biotechnology and genomics.,0.59,Healthcare,"Biotechnology, Genomics",High,200,-6.00%,High,0.00%
+XHE,SPDR S&P Health Care Equipment ETF,Invests in companies in the healthcare equipment and supplies industry.,0.35,Healthcare,"Medical Devices, Healthcare Tech",Medium,500,8.00%,Medium,0.50%
+IXJ,iShares Global Healthcare ETF,Provides exposure to global healthcare companies.,0.4,Healthcare,"Global Healthcare, Pharma",Low,2000,10.00%,Low,1.80%
+KOL,VanEck Coal ETF,Focuses on companies involved in the coal industry.,0.65,Energy,"Coal, Fossil Fuels",Very High,150,25.00%,Very High,3.00%
+OIH,VanEck Oil Services ETF,Invests in companies that provide services to the oil and gas industry.,0.35,Energy,"Oil Services, Energy",High,3000,20.00%,High,1.00%
+GDXJ,VanEck Junior Gold Miners ETF,Focuses on smaller gold mining companies.,0.54,Basic Materials,"Gold, Junior Mining",Very High,4000,-10.00%,Very High,0.80%
+SIL,Global X Silver Miners ETF,Invests in companies that mine silver.,0.65,Basic Materials,"Silver, Mining",High,500,-8.00%,High,1.00%
+MOO,VanEck Agribusiness ETF,Focuses on companies in the global agribusiness industry.,0.53,Consumer Staples,"Agribusiness, Agriculture",Medium,1000,5.00%,Medium,1.50%
+GUNR,FlexShares Global Upstream Natural Resources Index Fund,Invests in companies that own or produce natural resources globally.,0.48,Multi-Sector,"Natural Resources, Commodities",Medium,1000,12.00%,Medium,2.50%
+PHO,Invesco Water Resources ETF,Focuses on companies that create products designed to conserve and purify water.,0.59,Utilities,"Water, Infrastructure",Low,1800,7.80%,Low,0.85%
+BATT,Amplify Lithium & Battery Technology ETF,Invests in companies involved in lithium and battery technology.,0.59,Basic Materials,"Lithium, Battery Technology, EVs",High,200,-18.00%,High,0.00%
+FTXO,First Trust Nasdaq Oil & Gas Exploration & Production ETF,Focuses on oil and gas exploration and production companies.,0.6,Energy,"Oil & Gas, Energy",High,100,22.00%,High,1.80%
+FAN,First Trust Global Wind Energy ETF,Invests in companies involved in the global wind energy industry.,0.6,Utilities,"Wind Energy, Renewables",Medium,150,-18.00%,High,0.00%
+CNRG,SPDR S&P Kensho Clean Power ETF,Invests in companies involved in clean power generation and technology.,0.45,Utilities,"Clean Power, Renewables",Medium,80,-15.00%,Medium,0.00%
+GHYG,Nuveen Short-Term High Yield ETF,Invests in short-term high-yield corporate bonds.,0.35,Fixed Income,"High Yield Bonds, Income",Medium,200,3.00%,Low,5.00%
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Tracks a high-yield corporate bond index.,0.48,Fixed Income,"High Yield Bonds, Income",Medium,12000,4.00%,Low,5.50%
+JNK,SPDR Bloomberg High Yield Bond ETF,Another popular high-yield corporate bond ETF.,0.4,Fixed Income,"High Yield Bonds, Income",Medium,8000,4.20%,Low,5.30%
+TLT,iShares 20+ Year Treasury Bond ETF,Invests in long-term U.S. Treasury bonds.,0.15,Fixed Income,"Long-term Bonds, Interest Rates",Low,30000,-5.00%,Medium,4.50%
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Invests in investment-grade intermediate-term corporate bonds.,0.04,Fixed Income,"Corporate Bonds, Income",Low,40000,1.50%,Low,3.80%
+BND,Vanguard Total Bond Market ETF,Tracks the total U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Tracks an index of U.S. dollar-denominated investment-grade corporate bonds.,0.14,Fixed Income,"Corporate Bonds, Income",Low,30000,2.50%,Low,4.20%
+MBB,iShares MBS ETF,Invests in U.S. agency mortgage-backed securities (MBS).,0.05,Fixed Income,"MBS, Real Estate Debt",Low,20000,1.00%,Low,3.70%
+TIP,iShares TIPS Bond ETF,Invests in U.S. Treasury Inflation-Protected Securities (TIPS).,0.19,Fixed Income,"Inflation Protection, TIPS",Low,25000,0.50%,Low,2.50%
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Focuses on short-term TIPS.,0.05,Fixed Income,"Inflation Protection, Short-term TIPS",Low,15000,0.80%,Low,2.30%
+MUNI,PIMCO Municipal Bond Income Active ETF,Actively managed ETF investing in municipal bonds.,0.55,Fixed Income,"Municipal Bonds, Tax-Exempt Income",Low,500,3.00%,Low,2.80%
+TFI,iShares Short-Term National Muni Bond ETF,Invests in short-term municipal bonds across the U.S.,0.1,Fixed Income,"Municipal Bonds, Short-term",Low,5000,1.50%,Low,2.00%
+HYDD,Global X SuperDividend® U.S. ETF,Invests in 50 of the highest dividend-yielding equity securities in the U.S.,0.45,Multi-Sector,"High Dividend, Income",Medium,200,6.00%,Medium,5.80%
+SRET,Global X SuperDividend® REIT ETF,Invests in 30 of the highest dividend-yielding REITs globally.,0.6,Real Estate,"High Dividend, REITs",Medium,300,3.00%,Medium,7.50%
+SDIV,Global X SuperDividend® ETF,Invests in 100 of the highest dividend-yielding equity securities in the world.,0.59,Multi-Sector,"High Dividend, Global Income",Medium,800,4.00%,Medium,6.00%
+DIV,Global X S&P 500 Quality Dividend ETF,Focuses on S&P 500 companies with high quality and sustainable dividends.,0.2,Multi-Sector,"Quality Dividend, Income",Low,100,8.00%,Low,2.80%
+DGRO,iShares Core Dividend Growth ETF,Invests in U.S. companies with a consistent history of growing dividends.,0.08,Multi-Sector,"Dividend Growth, Income",Low,30000,10.00%,Low,2.20%
+VYM,Vanguard High Dividend Yield ETF,Tracks an index of U.S. companies that have high dividend yields.,0.06,Multi-Sector,"High Dividend, Income",Low,50000,8.50%,Low,3.00%
+HDV,iShares Core High Dividend ETF,Invests in U.S. equities that have a high dividend yield.,0.08,Multi-Sector,"High Dividend, Income",Low,15000,7.00%,Low,3.20%
+SCHD,Schwab U.S. Dividend Equity ETF,Tracks companies with a record of paying consistent dividends.,0.06,Multi-Sector,"Dividend Equity, Income",Low,60000,11.00%,Low,3.00%
+PFF,iShares Preferred and Income Securities ETF,Invests in preferred stocks and other income-generating securities.,0.46,Fixed Income,"Preferred Stock, Income",Low,18000,5.00%,Low,5.80%
+PGX,Invesco Preferred ETF,Tracks a market-value-weighted index of preferred stocks.,0.5,Fixed Income,"Preferred Stock, Income",Low,7000,5.20%,Low,5.70%
+CATH,Global X S&P 500 Catholic Values ETF,Invests in S&P 500 companies that adhere to Catholic values principles.,0.29,Multi-Sector,"ESG, Catholic Values",Medium,100,14.00%,Medium,1.30%
+KRMA,Global X Conscious Companies ETF,Invests in companies that demonstrate strong ESG and stakeholder alignment.,0.45,Multi-Sector,"ESG, Conscious Capitalism",Medium,50,10.00%,Medium,0.50%
+DBLN,Global X MSCI Latin America ETF,Invests in companies in Latin American countries.,0.49,Multi-Region,"Latin America, Emerging Markets",High,80,-5.00%,High,2.50%
+TUR,iShares MSCI Turkey ETF,Provides exposure to equity markets in Turkey.,0.59,Multi-Region,"Turkey, Emerging Markets",Very High,100,20.00%,Extremely High,3.00%
+EWZ,iShares MSCI Brazil ETF,Provides exposure to equity markets in Brazil.,0.59,Multi-Region,"Brazil, Emerging Markets",High,5000,10.00%,Very High,3.50%
+EEM,iShares MSCI Emerging Markets ETF,Tracks a broad range of emerging market equities.,0.68,Multi-Region,"Emerging Markets, Global",Medium,20000,6.00%,Medium,2.20%
+IEMG,iShares Core MSCI Emerging Markets ETF,A core ETF for emerging markets exposure with lower expense.,0.11,Multi-Region,"Emerging Markets, Global",Medium,90000,7.00%,Medium,2.00%
+EFA,iShares MSCI EAFE ETF,Tracks developed markets outside of North America.,0.35,Multi-Region,"Developed Markets, International",Medium,50000,8.00%,Medium,2.80%
+VEA,Vanguard FTSE Developed Markets ETF,"Invests in large, mid, and small-cap companies in developed international markets.",0.05,Multi-Region,"Developed Markets, International",Medium,150000,7.00%,Medium,2.80%
+IJH,iShares Core S&P Mid-Cap ETF,Tracks the S&P MidCap 400 Index.,0.05,Multi-Sector,"Mid Cap, US Equity",Low,70000,12.00%,Medium,1.20%
+IJR,iShares Core S&P Small-Cap ETF,Tracks the S&P SmallCap 600 Index.,0.07,Multi-Sector,"Small Cap, US Equity",Medium,60000,8.00%,Medium,1.00%
+IVOO,Vanguard S&P Mid-Cap 400 ETF,Tracks the S&P Mid-Cap 400 Index.,0.1,Multi-Sector,"Mid Cap, US Equity",Low,5000,11.50%,Medium,1.20%
+IWM,iShares Russell 2000 ETF,"Tracks the Russell 2000 Index, representing small-cap U.S. equities.",0.19,Multi-Sector,"Small Cap, US Equity",Medium,55000,7.00%,Medium,1.00%
+VBR,Vanguard Small-Cap Value ETF,Invests in small-cap value stocks in the U.S.,0.07,Multi-Sector,"Small Cap, Value",Medium,30000,9.00%,Medium,1.50%
+VBK,Vanguard Small-Cap Growth ETF,Invests in small-cap growth stocks in the U.S.,0.07,Multi-Sector,"Small Cap, Growth",Medium,20000,6.00%,Medium,0.80%
+VONG,Vanguard S&P 500 Growth ETF,Tracks the S&P 500 Growth Index.,0.1,Multi-Sector,"Large Cap, Growth",Medium,40000,25.00%,Medium,0.50%
+VONV,Vanguard S&P 500 Value ETF,Tracks the S&P 500 Value Index.,0.1,Multi-Sector,"Large Cap, Value",Low,30000,8.00%,Low,2.50%
+MGK,Vanguard Mega Cap Growth ETF,Invests in mega-cap growth stocks.,0.07,Multi-Sector,"Mega Cap, Growth",Medium,15000,28.00%,Medium,0.40%
+MGV,Vanguard Mega Cap Value ETF,Invests in mega-cap value stocks.,0.07,Multi-Sector,"Mega Cap, Value",Low,10000,9.00%,Low,2.60%
+ACWV,iShares Edge MSCI Min Vol Global ETF,Seeks to track global equities with lower volatility characteristics.,0.2,Multi-Sector,"Low Volatility, Global",Low,1000,6.00%,Low,2.00%
+SPLV,Invesco S&P 500 Low Volatility ETF,Tracks the S&P 500 companies with the lowest volatility.,0.25,Multi-Sector,"Low Volatility, US Equity",Low,9000,5.00%,Low,2.50%
+USMV,iShares MSCI USA Min Vol Factor ETF,Focuses on U.S. equities with lower volatility characteristics.,0.15,Multi-Sector,"Low Volatility, US Equity",Low,30000,7.00%,Low,2.30%
+QUAL,iShares MSCI USA Quality Factor ETF,"Tracks U.S. companies with high quality characteristics (e.g., stable earnings, low debt).",0.15,Multi-Sector,"Quality Factor, US Equity",Low,30000,15.00%,Low,1.00%
+VLUE,iShares MSCI USA Value Factor ETF,Focuses on U.S. companies with lower valuations based on fundamental factors.,0.15,Multi-Sector,"Value Factor, US Equity",Medium,15000,10.00%,Medium,2.00%
+MTUM,iShares MSCI USA Momentum Factor ETF,Tracks U.S. companies exhibiting strong price momentum.,0.15,Multi-Sector,"Momentum Factor, US Equity",Medium,20000,20.00%,Medium,0.50%
+SIZE,iShares MSCI USA Size Factor ETF,Focuses on U.S. companies based on their market capitalization.,0.15,Multi-Sector,"Size Factor, US Equity",Medium,500,8.00%,Medium,1.20%
+GSLC,Goldman Sachs ActiveBeta® U.S. Large Cap Equity ETF,A multi-factor ETF investing in large-cap U.S. equities.,0.09,Multi-Sector,"Multi-Factor, US Equity",Low,10000,14.00%,Low,1.30%
+ONEQ,Fidelity Nasdaq Composite Index ETF,"Tracks the Nasdaq Composite Index, including all Nasdaq-listed stocks.",0.21,Multi-Sector,"Tech-heavy, Broad Market",Medium,500,20.00%,Medium,0.80%
+FNCM,Fidelity Nasdaq Composite Index ETF,"Similar to ONEQ, tracks the Nasdaq Composite Index.",0.21,Multi-Sector,"Tech-heavy, Broad Market",Medium,500,20.00%,Medium,0.80%
+QQQ,Invesco QQQ Trust,"Tracks the Nasdaq-100 Index, composed of the 100 largest non-financial companies on Nasdaq.",0.2,Technology,"Large Cap Tech, Growth",High,250000,35.00%,High,0.50%
+SPY,SPDR S&P 500 ETF Trust,Tracks the S&P 500 Index.,0.09,Multi-Sector,"Broad Market, Large Cap",Low,500000,15.00%,Low,1.30%
+DIA,SPDR Dow Jones Industrial Average ETF Trust,Tracks the Dow Jones Industrial Average.,0.16,Multi-Sector,"Blue Chip, Large Cap",Low,30000,12.00%,Low,1.80%
+TLT,iShares 20+ Year Treasury Bond ETF,Invests in long-term U.S. Treasury bonds.,0.15,Fixed Income,"Long-term Bonds, Interest Rates",Low,30000,-5.00%,Medium,4.50%
+SHY,iShares 1-3 Year Treasury Bond ETF,Invests in short-term U.S. Treasury bonds.,0.15,Fixed Income,"Short-term Bonds, Interest Rates",Low,20000,1.00%,Low,5.00%
+IEF,iShares 7-10 Year Treasury Bond ETF,Invests in intermediate-term U.S. Treasury bonds.,0.15,Fixed Income,"Intermediate-term Bonds, Interest Rates",Low,15000,0.50%,Low,4.70%
+AGG,iShares Core U.S. Aggregate Bond ETF,Tracks the broad U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+BND,Vanguard Total Bond Market ETF,Tracks the total U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+TIP,iShares TIPS Bond ETF,Invests in U.S. Treasury Inflation-Protected Securities (TIPS).,0.19,Fixed Income,"Inflation Protection, TIPS",Low,25000,0.50%,Low,2.50%
+CWB,SPDR Barclays Convertible Securities ETF,Invests in convertible bonds.,0.4,Fixed Income,"Convertible Bonds, Hybrid Securities",Medium,5000,8.00%,Medium,3.00%
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Invests in U.S. dollar-denominated emerging market sovereign bonds.,0.39,Fixed Income,"Emerging Market Debt, Income",Medium,10000,3.00%,Medium,6.00%
+PCY,Invesco Emerging Markets Sovereign Debt ETF,Another ETF focused on emerging market sovereign debt.,0.5,Fixed Income,"Emerging Market Debt, Income",Medium,2000,3.20%,Medium,6.20%
+VWOB,Vanguard Emerging Markets Government Bond ETF,Invests in U.S. dollar-denominated government bonds from emerging markets.,0.2,Fixed Income,"Emerging Market Debt, Income",Medium,5000,3.50%,Medium,5.80%
+BNDX,Vanguard Total International Bond ETF,Tracks the total non-U.S. dollar-denominated investment-grade bond market.,0.08,Fixed Income,"International Bonds, Global Diversification",Low,50000,1.00%,Low,1.80%
+IAGG,BlackRock Aggregate Bond ETF,Invests in a broad range of global investment-grade bonds.,0.08,Fixed Income,"Global Bonds, Diversification",Low,1000,1.50%,Low,2.00%
+HYLD,YieldShares High Income ETF,A multi-asset class income ETF that invests in various high-income strategies.,1.65,Multi-Asset,"High Income, Multi-Asset",Medium,50,7.00%,Medium,7.00%
+ALTY,Global X Alternative Income ETF,Invests in alternative income-generating asset classes.,0.75,Multi-Asset,"Alternative Income, Diversification",Medium,30,5.00%,Medium,4.00%
+QYLD,Global X Nasdaq 100 Covered Call ETF,Generates income by selling covered calls on the Nasdaq 100 index.,0.6,Technology,"Covered Call, Income",Medium,7000,15.00%,Low,12.00%
+RYLD,Global X Russell 2000 Covered Call ETF,Generates income by selling covered calls on the Russell 2000 index.,0.6,Multi-Sector,"Covered Call, Income",Medium,500,10.00%,Medium,10.00%
+XYLD,Global X S&P 500 Covered Call ETF,Generates income by selling covered calls on the S&P 500 index.,0.6,Multi-Sector,"Covered Call, Income",Medium,2000,12.00%,Low,10.00%
+JEPI,JPMorgan Equity Premium Income ETF,Actively managed ETF generating income through options and equity exposure.,0.35,Multi-Sector,"Income, Options Strategy",Medium,30000,15.00%,Low,8.00%
+TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Combines long-term Treasury bonds with covered calls for income.,0.35,Fixed Income,"Covered Call, Income, Bonds",Low,500,8.00%,Low,10.00%
+FNGS,MicroSectors FANG+ Index 3X Leveraged ETN,Provides 3x leveraged exposure to the FANG+ Index. (Leveraged products carry extreme risk),0.95,Technology,"Leveraged Tech, FANG",Extremely High,500,80.00%,Extremely High,0.00%
+SOXL,Direxion Daily Semiconductor Bull 3X Shares,Provides 3x leveraged exposure to a semiconductor index. (Leveraged products carry extreme risk),0.93,Technology,"Leveraged Semis, Growth",Extremely High,10000,150.00%,Extremely High,0.00%
+SQQQ,ProShares UltraPro Short QQQ,Provides -3x leveraged inverse exposure to the Nasdaq 100 Index. (Leveraged products carry extreme risk),0.95,Technology,"Leveraged Inverse, Nasdaq",Extremely High,5000,-90.00%,Extremely High,0.00%
+TQQQ,ProShares UltraPro QQQ,Provides 3x leveraged exposure to the Nasdaq 100 Index. (Leveraged products carry extreme risk),0.95,Technology,"Leveraged Tech, Nasdaq",Extremely High,20000,90.00%,Extremely High,0.00%
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,"Provides leveraged exposure to short-term VIX futures, a volatility measure.",1.65,Multi-Sector,"Volatility, Futures",Extremely High,800,-70.00%,Extremely High,0.00%
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,Tracks short-term VIX futures. (Volatility products carry extreme risk),0.89,Multi-Sector,"Volatility, Futures",Extremely High,500,-50.00%,Extremely High,0.00%
+UPRO,ProShares UltraPro S&P500,Provides 3x leveraged exposure to the S&P 500 Index. (Leveraged products carry extreme risk),0.95,Multi-Sector,Leveraged Broad Market,Extremely High,3000,50.00%,Extremely High,0.00%
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,Provides -3x leveraged inverse exposure to the S&P 500 Index. (Leveraged products carry extreme risk),1,Multi-Sector,Leveraged Inverse Broad Market,Extremely High,500,-40.00%,Extremely High,0.00%
+ARKX,ARK Space Exploration & Innovation ETF,Actively managed fund investing in companies involved in space exploration and innovation.,0.75,Industrials,"Space Exploration, Innovation",High,300,5.00%,High,0.00%
+BJK,VanEck Gaming and Leisure ETF,Focuses on companies involved in the gaming and leisure industry.,0.67,Consumer Discretionary,"Gaming, Leisure, Entertainment",Medium,100,12.00%,Medium,0.50%
+CXSE,WisdomTree China ex-State-Owned Enterprises Fund,Invests in Chinese companies excluding state-owned enterprises.,0.32,Multi-Region,"China, Private Sector",Medium,200,-10.00%,High,1.00%
+FBT,First Trust Amex Biotech ETF,Focuses on biotechnology companies listed on the NYSE Amex.,0.6,Healthcare,"Biotechnology, Pharma",High,500,-2.00%,High,0.00%
+FXI,iShares China Large-Cap ETF,Tracks large-cap companies in China.,0.74,Multi-Region,"China, Large Cap",Medium,5000,-15.00%,High,2.50%
+HACK,PureFunds CyberSecurity ETF,Invests in companies providing products and services for cybersecurity.,0.6,Technology,Cybersecurity,Medium,2000,20.00%,Medium,0.00%
+IGN,iShares North American Tech-Multimedia Networking ETF,Focuses on technology companies in multimedia networking.,0.47,Technology,"Networking, Communication Tech",Medium,200,18.00%,Medium,0.00%
+IHI,iShares U.S. Medical Devices ETF,Tracks companies in the medical devices sector.,0.4,Healthcare,"Medical Devices, Healthcare Tech",Medium,5000,10.00%,Medium,0.20%
+IRBO,iShares Robotics and Artificial Intelligence Multisector ETF,Invests in companies focused on robotics and AI across multiple sectors.,0.47,Multi-Sector,"Robotics, AI",High,300,16.00%,High,0.00%
+IYZ,iShares U.S. Telecommunications ETF,Tracks companies in the telecommunications sector.,0.4,Communication Services,"Telecommunications, Connectivity",Low,100,5.00%,Low,3.50%
+KBE,SPDR S&P Bank ETF,Focuses on the banking segment of the financial sector.,0.35,Financials,"Banking, Financial Services",Medium,2000,20.00%,Medium,2.50%
+KCE,SPDR S&P Capital Markets ETF,Focuses on the capital markets segment of the financial sector.,0.35,Financials,"Capital Markets, FinTech",Medium,100,16.00%,Medium,1.00%
+KIE,SPDR S&P Insurance ETF,Focuses on the insurance segment of the financial sector.,0.35,Financials,Insurance,Low,500,12.00%,Low,1.50%
+KMED,Global X Telemedicine & Digital Health ETF,Focuses on companies providing telemedicine and digital health solutions.,0.68,Healthcare,"Telemedicine, Digital Health",Medium,150,-1.50%,Medium,0.00%
+LNGR,Global X Longevity & Healthy Living ETF,Invests in companies that stand to benefit from the increasing longevity and healthy living trend.,0.5,Healthcare,"Longevity, Healthy Living",Medium,70,6.00%,Medium,0.00%
+MJ,ETFMG Alternative Harvest ETF,Invests in companies operating in the cannabis industry.,0.75,Consumer Staples,"Cannabis, Agriculture",Very High,400,-25.00%,Extremely High,0.00%
+PHO,Invesco Water Resources ETF,Focuses on companies that create products designed to conserve and purify water.,0.59,Utilities,"Water, Infrastructure",Low,1800,7.80%,Low,0.85%
+SKYY,First Trust Cloud Computing ETF,Invests in companies involved in cloud computing.,0.6,Technology,"Cloud Computing, Software",Medium,3000,14.00%,Medium,0.00%
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,Focuses on technology and telecom companies that pay regular dividends.,0.5,Technology,"Tech Dividend, Income",Medium,500,15.00%,Medium,1.80%
+VDC,Vanguard Consumer Staples ETF,Tracks the consumer staples sector.,0.1,Consumer Staples,"Consumer Staples, Food & Beverage",Low,10000,6.00%,Low,2.50%
+VFH,Vanguard Financials ETF,Tracks the financial sector.,0.1,Financials,"Financial Services, Banking",Medium,15000,18.00%,Medium,1.80%
+VHT,Vanguard Health Care ETF,Tracks the healthcare sector.,0.1,Healthcare,"Healthcare, Pharma",Low,18000,11.00%,Low,1.50%
+VIS,Vanguard Industrials ETF,Tracks the industrials sector.,0.1,Industrials,"Industrials, Manufacturing",Medium,10000,15.00%,Medium,1.30%
+VOX,Vanguard Communication Services ETF,Tracks the communication services sector.,0.1,Communication Services,"Communication Services, Media",Medium,5000,20.00%,Medium,1.00%
+VPU,Vanguard Utilities ETF,Tracks the utilities sector.,0.1,Utilities,"Utilities, Power",Low,5000,4.50%,Low,3.20%
+VCR,Vanguard Consumer Discretionary ETF,Tracks the consumer discretionary sector.,0.1,Consumer Discretionary,"Consumer Discretionary, Retail",Medium,12000,22.00%,Medium,1.00%
+VAW,Vanguard Materials ETF,Invests in companies in the basic materials sector.,0.1,Basic Materials,"Materials, Chemicals",Low,5000,9.00%,Low,2.00%
+VDE,Vanguard Energy ETF,Tracks the energy sector.,0.1,Energy,"Energy, Oil & Gas",High,8000,25.00%,High,3.80%
+VNQ,Vanguard Real Estate ETF,Tracks the real estate sector.,0.12,Real Estate,"Real Estate, REITs",Low,40000,5.00%,Low,3.50%
+IBB,iShares Biotechnology ETF,Tracks the biotechnology sector.,0.47,Healthcare,"Biotechnology, Pharma",High,8000,-3.00%,High,0.00%
+PBW,Invesco WilderHill Clean Energy ETF,Tracks companies engaged in the clean energy sector.,0.7,Utilities,"Clean Energy, Renewables",High,800,-20.00%,High,0.00%
+FAN,First Trust Global Wind Energy ETF,Invests in companies that are involved in the global wind energy industry.,0.6,Utilities,"Wind Energy, Renewables",Medium,150,-18.00%,High,0.00%
+TAN,Invesco Solar ETF,Focuses on companies involved in the solar energy industry.,0.69,Utilities,"Solar Energy, Renewables",High,3000,-28.00%,Very High,0.00%
+QCLN,First Trust Nasdaq Clean Edge Green Energy Index Fund,Invests in U.S.-listed clean energy companies.,0.6,Multi-Sector,"Clean Energy, Green Tech",Medium,1500,-17.00%,Medium,0.00%
+SMOG,VanEck Green Bond ETF,"Invests in green bonds, which fund environmentally friendly projects.",0.2,Fixed Income,"Green Bonds, ESG",Low,100,2.00%,Low,1.80%
+ESGE,iShares ESG Aware MSCI Emerging Markets ETF,Invests in emerging market companies with favorable ESG characteristics.,0.25,Multi-Sector,"ESG, Emerging Markets",Medium,2000,5.00%,Medium,2.20%
+SUSA,iShares MSCI USA ESG Select ETF,"Focuses on U.S. companies with strong environmental, social, and governance (ESG) practices.",0.25,Multi-Sector,"ESG, Sustainable Investing",Low,3000,10.00%,Low,1.50%
+ESGU,iShares ESG Aware MSCI USA ETF,Tracks U.S. companies with positive ESG characteristics.,0.15,Multi-Sector,"ESG, Sustainable Investing",Low,25000,12.00%,Low,1.30%
+SHE,SPDR SSGA Gender Diversity Index ETF,Invests in U.S. companies that are leaders in gender diversity.,0.2,Multi-Sector,"Gender Diversity, ESG",Medium,300,9.00%,Medium,1.20%
+CRBN,iShares MSCI ACWI Low Carbon Target ETF,Aims to track companies with lower carbon exposure.,0.2,Multi-Sector,"Low Carbon, ESG",Medium,500,8.00%,Medium,1.60%
+WOOD,iShares Global Timber & Forestry ETF,Invests in companies that own or manage timberlands and related forestry products.,0.47,Basic Materials,"Timber, Forestry, Natural Resources",Medium,300,6.00%,Medium,2.00%
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Focuses on global producers of industrial and precious metals.,0.39,Basic Materials,"Metals, Mining, Commodities",Medium,200,10.00%,Medium,2.50%
+VAW,Vanguard Materials ETF,Invests in companies in the basic materials sector.,0.1,Basic Materials,"Materials, Chemicals",Low,5000,9.00%,Low,2.00%
+REM,iShares Mortgage Real Estate ETF,Focuses on companies that invest in mortgages and real estate.,0.48,Real Estate,"Mortgage REITs, Real Estate",Medium,500,2.00%,Medium,8.00%
+REZ,iShares Residential Real Estate ETF,Invests in U.S. residential real estate companies.,0.48,Real Estate,"Residential Real Estate, REITs",Low,200,4.00%,Low,3.00%
+RWR,SPDR Dow Jones REIT ETF,Tracks the performance of the Dow Jones U.S. Real Estate Index.,0.25,Real Estate,"Real Estate, REITs",Low,2000,5.00%,Low,3.20%
+BIKR,Global X Nasdaq 100 Bike ETF,A hypothetical ETF focusing on the growing cycling and outdoor recreation industry.,0.65,Consumer Discretionary,"Cycling, Outdoor Recreation",Medium,50,8.00%,Medium,0.00%
+FUTY,Fidelity MSCI Utilities Index ETF,Tracks the utilities sector of the U.S. equity market.,0.08,Utilities,"Utilities, Power",Low,1000,4.50%,Low,3.20%
+FSTA,Fidelity MSCI Consumer Staples Index ETF,Tracks the consumer staples sector of the U.S. equity market.,0.08,Consumer Staples,"Consumer Staples, Food & Beverage",Low,1200,7.00%,Low,2.80%
+FNCL,Fidelity MSCI Financials Index ETF,Tracks the financials sector of the U.S. equity market.,0.08,Financials,"Financial Services, Banking",Medium,1500,19.00%,Medium,2.00%
+FHLC,Fidelity MSCI Health Care Index ETF,Tracks the healthcare sector of the U.S. equity market.,0.08,Healthcare,"Healthcare, Pharma",Low,1800,11.00%,Low,1.50%
+FMAT,Fidelity MSCI Materials Index ETF,Tracks the materials sector of the U.S. equity market.,0.08,Basic Materials,"Materials, Chemicals",Medium,800,11.00%,Medium,2.20%
+FCOM,Fidelity MSCI Communication Services Index ETF,Tracks the communication services sector of the U.S. equity market.,0.08,Communication Services,"Communication Services, Media",Low,1500,20.00%,Medium,1.00%
+FTEC,Fidelity MSCI Information Technology Index ETF,Tracks the information technology sector of the U.S. equity market.,0.08,Technology,"Technology, Software, Hardware",Medium,2000,37.00%,Medium,0.70%
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Tracks the consumer discretionary sector of the U.S. equity market.,0.08,Consumer Discretionary,"Consumer Discretionary, Retail",Medium,1400,23.00%,Medium,1.00%
+FENY,Fidelity MSCI Energy Index ETF,Tracks the energy sector of the U.S. equity market.,0.08,Energy,"Energy, Oil & Gas",High,1000,26.00%,High,4.00%
+FIDU,Fidelity MSCI Industrials Index ETF,Tracks the industrials sector of the U.S. equity market.,0.08,Industrials,"Industrials, Manufacturing",Medium,1100,16.00%,Medium,1.50%
+FREL,Fidelity MSCI Real Estate Index ETF,Tracks the real estate sector of the U.S. equity market.,0.08,Real Estate,"Real Estate, REITs",Low,500,5.50%,Low,3.50%
+IVV,iShares Core S&P 500 ETF,Tracks the S&P 500 index.,0.03,Multi-Sector,"Broad Market, Large Cap",Low,400000,15.00%,Low,1.30%
+VEA,Vanguard FTSE Developed Markets ETF,"Invests in large, mid, and small-cap companies in developed international markets.",0.05,Multi-Sector,"Developed Markets, International",Medium,150000,7.00%,Medium,2.80%
+VWO,Vanguard FTSE Emerging Markets ETF,"Invests in large, mid, and small-cap companies in emerging markets.",0.08,Multi-Sector,"Emerging Markets, International",Medium,120000,5.00%,Medium,2.50%
+GLD,SPDR Gold Shares,Represents ownership in physical gold bullion stored in vaults.,0.4,Commodities,"Gold, Precious Metals",Medium,60000,10.00%,Medium,0.00%
+SLV,iShares Silver Trust,Represents ownership in physical silver bullion stored in vaults.,0.5,Commodities,"Silver, Precious Metals",Medium,10000,8.00%,Medium,0.00%
+USO,United States Oil Fund LP,Tracks the daily price movements of West Texas Intermediate (WTI) crude oil.,0.75,Commodities,"Oil, Energy",Very High,3000,20.00%,Very High,0.00%
+UNG,United States Natural Gas Fund LP,Tracks the daily price movements of natural gas.,1.35,Commodities,"Natural Gas, Energy",Extremely High,500,-15.00%,Extremely High,0.00%
+DBA,Invesco DB Agriculture Fund,Tracks a diversified basket of agricultural commodities.,0.85,Commodities,"Agriculture, Food",Medium,1000,5.00%,Medium,0.00%
+URA,Global X Uranium ETF,"Focuses on companies involved in the uranium industry, including mining and nuclear components.",0.69,Basic Materials,"Uranium, Nuclear Energy",High,1500,45.00%,Very High,0.00%
+GCL,Global X Gold Explorers ETF,Invests in companies primarily engaged in the exploration for gold.,0.65,Basic Materials,"Gold Exploration, Mining",Very High,80,-8.00%,Very High,0.00%
+PICK,iShares MSCI Global Metals & Mining Producers ETF,Focuses on global producers of industrial and precious metals.,0.39,Basic Materials,"Metals, Mining, Commodities",Medium,200,10.00%,Medium,2.50%
+FTRI,First Trust Indxx Global Natural Resources Income ETF,Invests in income-generating companies in the natural resources sector.,0.7,Multi-Sector,"Natural Resources, Income",Medium,50,7.00%,Medium,3.00%
+REMX,VanEck Rare Earth/Strategic Metals ETF,"Tracks companies involved in the production, refining, and recycling of rare earth and strategic metals.",0.59,Basic Materials,"Rare Earth, Strategic Metals",High,1000,-12.00%,High,0.50%
+CUT,Invesco MSCI Global Timber ETF,Focuses on companies in the global timber and forest products industry.,0.65,Basic Materials,"Timber, Forestry",Medium,80,7.00%,Medium,2.00%
+XLV,Health Care Select Sector SPDR Fund,Tracks the health care sector of the S&P 500.,0.1,Healthcare,"Healthcare, Pharma",Low,35000,12.00%,Low,1.40%
+IBB,iShares Biotechnology ETF,Tracks the biotechnology sector.,0.47,Healthcare,"Biotechnology, Pharma",High,8000,-3.00%,High,0.00%
+PBE,Invesco Dynamic Biotechnology & Genome ETF,Focuses on companies involved in biotechnology and genomics.,0.59,Healthcare,"Biotechnology, Genomics",High,200,-6.00%,High,0.00%
+XHE,SPDR S&P Health Care Equipment ETF,Invests in companies in the healthcare equipment and supplies industry.,0.35,Healthcare,"Medical Devices, Healthcare Tech",Medium,500,8.00%,Medium,0.50%
+IXJ,iShares Global Healthcare ETF,Provides exposure to global healthcare companies.,0.4,Healthcare,"Global Healthcare, Pharma",Low,2000,10.00%,Low,1.80%
+KOL,VanEck Coal ETF,Focuses on companies involved in the coal industry.,0.65,Energy,"Coal, Fossil Fuels",Very High,150,25.00%,Very High,3.00%
+OIH,VanEck Oil Services ETF,Invests in companies that provide services to the oil and gas industry.,0.35,Energy,"Oil Services, Energy",High,3000,20.00%,High,1.00%
+GDXJ,VanEck Junior Gold Miners ETF,Focuses on smaller gold mining companies.,0.54,Basic Materials,"Gold, Junior Mining",Very High,4000,-10.00%,Very High,0.80%
+SIL,Global X Silver Miners ETF,Invests in companies that mine silver.,0.65,Basic Materials,"Silver, Mining",High,500,-8.00%,High,1.00%
+MOO,VanEck Agribusiness ETF,Focuses on companies in the global agribusiness industry.,0.53,Consumer Staples,"Agribusiness, Agriculture",Medium,1000,5.00%,Medium,1.50%
+GUNR,FlexShares Global Upstream Natural Resources Index Fund,Invests in companies that own or produce natural resources globally.,0.48,Multi-Sector,"Natural Resources, Commodities",Medium,1000,12.00%,Medium,2.50%
+PHO,Invesco Water Resources ETF,Focuses on companies that create products designed to conserve and purify water.,0.59,Utilities,"Water, Infrastructure",Low,1800,7.80%,Low,0.85%
+BATT,Amplify Lithium & Battery Technology ETF,Invests in companies involved in lithium and battery technology.,0.59,Basic Materials,"Lithium, Battery Technology, EVs",High,200,-18.00%,High,0.00%
+FTXO,First Trust Nasdaq Oil & Gas Exploration & Production ETF,Focuses on oil and gas exploration and production companies.,0.6,Energy,"Oil & Gas, Energy",High,100,22.00%,High,1.80%
+FAN,First Trust Global Wind Energy ETF,Invests in companies involved in the global wind energy industry.,0.6,Utilities,"Wind Energy, Renewables",Medium,150,-18.00%,High,0.00%
+CNRG,SPDR S&P Kensho Clean Power ETF,Invests in companies involved in clean power generation and technology.,0.45,Utilities,"Clean Power, Renewables",Medium,80,-15.00%,Medium,0.00%
+GHYG,Nuveen Short-Term High Yield ETF,Invests in short-term high-yield corporate bonds.,0.35,Fixed Income,"High Yield Bonds, Income",Medium,200,3.00%,Low,5.00%
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Tracks a high-yield corporate bond index.,0.48,Fixed Income,"High Yield Bonds, Income",Medium,12000,4.00%,Low,5.50%
+JNK,SPDR Bloomberg High Yield Bond ETF,Another popular high-yield corporate bond ETF.,0.4,Fixed Income,"High Yield Bonds, Income",Medium,8000,4.20%,Low,5.30%
+TLT,iShares 20+ Year Treasury Bond ETF,Invests in long-term U.S. Treasury bonds.,0.15,Fixed Income,"Long-term Bonds, Interest Rates",Low,30000,-5.00%,Medium,4.50%
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Invests in investment-grade intermediate-term corporate bonds.,0.04,Fixed Income,"Corporate Bonds, Income",Low,40000,1.50%,Low,3.80%
+BND,Vanguard Total Bond Market ETF,Tracks the total U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Tracks an index of U.S. dollar-denominated investment-grade corporate bonds.,0.14,Fixed Income,"Corporate Bonds, Income",Low,30000,2.50%,Low,4.20%
+MBB,iShares MBS ETF,Invests in U.S. agency mortgage-backed securities (MBS).,0.05,Fixed Income,"MBS, Real Estate Debt",Low,20000,1.00%,Low,3.70%
+TIP,iShares TIPS Bond ETF,Invests in U.S. Treasury Inflation-Protected Securities (TIPS).,0.19,Fixed Income,"Inflation Protection, TIPS",Low,25000,0.50%,Low,2.50%
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Focuses on short-term TIPS.,0.05,Fixed Income,"Inflation Protection, Short-term TIPS",Low,15000,0.80%,Low,2.30%
+MUNI,PIMCO Municipal Bond Income Active ETF,Actively managed ETF investing in municipal bonds.,0.55,Fixed Income,"Municipal Bonds, Tax-Exempt Income",Low,500,3.00%,Low,2.80%
+TFI,iShares Short-Term National Muni Bond ETF,Invests in short-term municipal bonds across the U.S.,0.1,Fixed Income,"Municipal Bonds, Short-term",Low,5000,1.50%,Low,2.00%
+HYDD,Global X SuperDividend® U.S. ETF,Invests in 50 of the highest dividend-yielding equity securities in the U.S.,0.45,Multi-Sector,"High Dividend, Income",Medium,200,6.00%,Medium,5.80%
+SRET,Global X SuperDividend® REIT ETF,Invests in 30 of the highest dividend-yielding REITs globally.,0.6,Real Estate,"High Dividend, REITs",Medium,300,3.00%,Medium,7.50%
+SDIV,Global X SuperDividend® ETF,Invests in 100 of the highest dividend-yielding equity securities in the world.,0.59,Multi-Sector,"High Dividend, Global Income",Medium,800,4.00%,Medium,6.00%
+DIV,Global X S&P 500 Quality Dividend ETF,Focuses on S&P 500 companies with high quality and sustainable dividends.,0.2,Multi-Sector,"Quality Dividend, Income",Low,100,8.00%,Low,2.80%
+DGRO,iShares Core Dividend Growth ETF,Invests in U.S. companies with a consistent history of growing dividends.,0.08,Multi-Sector,"Dividend Growth, Income",Low,30000,10.00%,Low,2.20%
+VYM,Vanguard High Dividend Yield ETF,Tracks an index of U.S. companies that have high dividend yields.,0.06,Multi-Sector,"High Dividend, Income",Low,50000,8.50%,Low,3.00%
+HDV,iShares Core High Dividend ETF,Invests in U.S. equities that have a high dividend yield.,0.08,Multi-Sector,"High Dividend, Income",Low,15000,7.00%,Low,3.20%
+SCHD,Schwab U.S. Dividend Equity ETF,Tracks companies with a record of paying consistent dividends.,0.06,Multi-Sector,"Dividend Equity, Income",Low,60000,11.00%,Low,3.00%
+PFF,iShares Preferred and Income Securities ETF,Invests in preferred stocks and other income-generating securities.,0.46,Fixed Income,"Preferred Stock, Income",Low,18000,5.00%,Low,5.80%
+PGX,Invesco Preferred ETF,Tracks a market-value-weighted index of preferred stocks.,0.5,Fixed Income,"Preferred Stock, Income",Low,7000,5.20%,Low,5.70%
+CATH,Global X S&P 500 Catholic Values ETF,Invests in S&P 500 companies that adhere to Catholic values principles.,0.29,Multi-Sector,"ESG, Catholic Values",Medium,100,14.00%,Medium,1.30%
+KRMA,Global X Conscious Companies ETF,Invests in companies that demonstrate strong ESG and stakeholder alignment.,0.45,Multi-Sector,"ESG, Conscious Capitalism",Medium,50,10.00%,Medium,0.50%
+DBLN,Global X MSCI Latin America ETF,Invests in companies in Latin American countries.,0.49,Multi-Region,"Latin America, Emerging Markets",High,80,-5.00%,High,2.50%
+TUR,iShares MSCI Turkey ETF,Provides exposure to equity markets in Turkey.,0.59,Multi-Region,"Turkey, Emerging Markets",Very High,100,20.00%,Extremely High,3.00%
+EWZ,iShares MSCI Brazil ETF,Provides exposure to equity markets in Brazil.,0.59,Multi-Region,"Brazil, Emerging Markets",High,5000,10.00%,Very High,3.50%
+EEM,iShares MSCI Emerging Markets ETF,Tracks a broad range of emerging market equities.,0.68,Multi-Region,"Emerging Markets, Global",Medium,20000,6.00%,Medium,2.20%
+IEMG,iShares Core MSCI Emerging Markets ETF,A core ETF for emerging markets exposure with lower expense.,0.11,Multi-Region,"Emerging Markets, Global",Medium,90000,7.00%,Medium,2.00%
+EFA,iShares MSCI EAFE ETF,Tracks developed markets outside of North America.,0.35,Multi-Region,"Developed Markets, International",Medium,50000,8.00%,Medium,2.80%
+VEA,Vanguard FTSE Developed Markets ETF,"Invests in large, mid, and small-cap companies in developed international markets.",0.05,Multi-Region,"Developed Markets, International",Medium,150000,7.00%,Medium,2.80%
+IJH,iShares Core S&P Mid-Cap ETF,Tracks the S&P MidCap 400 Index.,0.05,Multi-Sector,"Mid Cap, US Equity",Low,70000,12.00%,Medium,1.20%
+IJR,iShares Core S&P Small-Cap ETF,Tracks the S&P SmallCap 600 Index.,0.07,Multi-Sector,"Small Cap, US Equity",Medium,60000,8.00%,Medium,1.00%
+IVOO,Vanguard S&P Mid-Cap 400 ETF,Tracks the S&P Mid-Cap 400 Index.,0.1,Multi-Sector,"Mid Cap, US Equity",Low,5000,11.50%,Medium,1.20%
+IWM,iShares Russell 2000 ETF,"Tracks the Russell 2000 Index, representing small-cap U.S. equities.",0.19,Multi-Sector,"Small Cap, US Equity",Medium,55000,7.00%,Medium,1.00%
+VBR,Vanguard Small-Cap Value ETF,Invests in small-cap value stocks in the U.S.,0.07,Multi-Sector,"Small Cap, Value",Medium,30000,9.00%,Medium,1.50%
+VBK,Vanguard Small-Cap Growth ETF,Invests in small-cap growth stocks in the U.S.,0.07,Multi-Sector,"Small Cap, Growth",Medium,20000,6.00%,Medium,0.80%
+VONG,Vanguard S&P 500 Growth ETF,Tracks the S&P 500 Growth Index.,0.1,Multi-Sector,"Large Cap, Growth",Medium,40000,25.00%,Medium,0.50%
+VONV,Vanguard S&P 500 Value ETF,Tracks the S&P 500 Value Index.,0.1,Multi-Sector,"Large Cap, Value",Low,30000,8.00%,Low,2.50%
+MGK,Vanguard Mega Cap Growth ETF,Invests in mega-cap growth stocks.,0.07,Multi-Sector,"Mega Cap, Growth",Medium,15000,28.00%,Medium,0.40%
+MGV,Vanguard Mega Cap Value ETF,Invests in mega-cap value stocks.,0.07,Multi-Sector,"Mega Cap, Value",Low,10000,9.00%,Low,2.60%
+ACWV,iShares Edge MSCI Min Vol Global ETF,Seeks to track global equities with lower volatility characteristics.,0.2,Multi-Sector,"Low Volatility, Global",Low,1000,6.00%,Low,2.00%
+SPLV,Invesco S&P 500 Low Volatility ETF,Tracks the S&P 500 companies with the lowest volatility.,0.25,Multi-Sector,"Low Volatility, US Equity",Low,9000,5.00%,Low,2.50%
+USMV,iShares MSCI USA Min Vol Factor ETF,Focuses on U.S. equities with lower volatility characteristics.,0.15,Multi-Sector,"Low Volatility, US Equity",Low,30000,7.00%,Low,2.30%
+QUAL,iShares MSCI USA Quality Factor ETF,"Tracks U.S. companies with high quality characteristics (e.g., stable earnings, low debt).",0.15,Multi-Sector,"Quality Factor, US Equity",Low,30000,15.00%,Low,1.00%
+VLUE,iShares MSCI USA Value Factor ETF,Focuses on U.S. companies with lower valuations based on fundamental factors.,0.15,Multi-Sector,"Value Factor, US Equity",Medium,15000,10.00%,Medium,2.00%
+MTUM,iShares MSCI USA Momentum Factor ETF,Tracks U.S. companies exhibiting strong price momentum.,0.15,Multi-Sector,"Momentum Factor, US Equity",Medium,20000,20.00%,Medium,0.50%
+SIZE,iShares MSCI USA Size Factor ETF,Focuses on U.S. companies based on their market capitalization.,0.15,Multi-Sector,"Size Factor, US Equity",Medium,500,8.00%,Medium,1.20%
+GSLC,Goldman Sachs ActiveBeta® U.S. Large Cap Equity ETF,A multi-factor ETF investing in large-cap U.S. equities.,0.09,Multi-Sector,"Multi-Factor, US Equity",Low,10000,14.00%,Low,1.30%
+ONEQ,Fidelity Nasdaq Composite Index ETF,"Tracks the Nasdaq Composite Index, including all Nasdaq-listed stocks.",0.21,Multi-Sector,"Tech-heavy, Broad Market",Medium,500,20.00%,Medium,0.80%
+FNCM,Fidelity Nasdaq Composite Index ETF,"Similar to ONEQ, tracks the Nasdaq Composite Index.",0.21,Multi-Sector,"Tech-heavy, Broad Market",Medium,500,20.00%,Medium,0.80%
+QQQ,Invesco QQQ Trust,"Tracks the Nasdaq-100 Index, composed of the 100 largest non-financial companies on Nasdaq.",0.2,Technology,"Large Cap Tech, Growth",High,250000,35.00%,High,0.50%
+SPY,SPDR S&P 500 ETF Trust,Tracks the S&P 500 Index.,0.09,Multi-Sector,"Broad Market, Large Cap",Low,500000,15.00%,Low,1.30%
+DIA,SPDR Dow Jones Industrial Average ETF Trust,Tracks the Dow Jones Industrial Average.,0.16,Multi-Sector,"Blue Chip, Large Cap",Low,30000,12.00%,Low,1.80%
+TLT,iShares 20+ Year Treasury Bond ETF,Invests in long-term U.S. Treasury bonds.,0.15,Fixed Income,"Long-term Bonds, Interest Rates",Low,30000,-5.00%,Medium,4.50%
+SHY,iShares 1-3 Year Treasury Bond ETF,Invests in short-term U.S. Treasury bonds.,0.15,Fixed Income,"Short-term Bonds, Interest Rates",Low,20000,1.00%,Low,5.00%
+IEF,iShares 7-10 Year Treasury Bond ETF,Invests in intermediate-term U.S. Treasury bonds.,0.15,Fixed Income,"Intermediate-term Bonds, Interest Rates",Low,15000,0.50%,Low,4.70%
+AGG,iShares Core U.S. Aggregate Bond ETF,Tracks the broad U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+BND,Vanguard Total Bond Market ETF,Tracks the total U.S. investment-grade bond market.,0.03,Fixed Income,"Broad Market Bonds, Income",Low,100000,2.00%,Low,3.50%
+TIP,iShares TIPS Bond ETF,Invests in U.S. Treasury Inflation-Protected Securities (TIPS).,0.19,Fixed Income,"Inflation Protection, TIPS",Low,25000,0.50%,Low,2.50%
+CWB,SPDR Barclays Convertible Securities ETF,Invests in convertible bonds.,0.4,Fixed Income,"Convertible Bonds, Hybrid Securities",Medium,5000,8.00%,Medium,3.00%
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Invests in U.S. dollar-denominated emerging market sovereign bonds.,0.39,Fixed Income,"Emerging Market Debt, Income",Medium,10000,3.00%,Medium,6.00%
+PCY,Invesco Emerging Markets Sovereign Debt ETF,Another ETF focused on emerging market sovereign debt.,0.5,Fixed Income,"Emerging Market Debt, Income",Medium,2000,3.20%,Medium,6.20%
+VWOB,Vanguard Emerging Markets Government Bond ETF,Invests in U.S. dollar-denominated government bonds from emerging markets.,0.2,Fixed Income,"Emerging Market Debt, Income",Medium,5000,3.50%,Medium,5.80%
+BNDX,Vanguard Total International Bond ETF,Tracks the total non-U.S. dollar-denominated investment-grade bond market.,0.08,Fixed Income,"International Bonds, Global Diversification",Low,50000,1.00%,Low,1.80%
+IAGG,BlackRock Aggregate Bond ETF,Invests in a broad range of global investment-grade bonds.,0.08,Fixed Income,"Global Bonds, Diversification",Low,1000,1.50%,Low,2.00%
+HYLD,YieldShares High Income ETF,A multi-asset class income ETF that invests in various high-income strategies.,1.65,Multi-Asset,"High Income, Multi-Asset",Medium,50,7.00%,Medium,7.00%
+ALTY,Global X Alternative Income ETF,Invests in alternative income-generating asset classes.,0.75,Multi-Asset,"Alternative Income, Diversification",Medium,30,5.00%,Medium,4.00%
+QYLD,Global X Nasdaq 100 Covered Call ETF,Generates income by selling covered calls on the Nasdaq 100 index.,0.6,Technology,"Covered Call, Income",Medium,7000,15.00%,Low,12.00%
+RYLD,Global X Russell 2000 Covered Call ETF,Generates income by selling covered calls on the Russell 2000 index.,0.6,Multi-Sector,"Covered Call, Income",Medium,500,10.00%,Medium,10.00%
+XYLD,Global X S&P 500 Covered Call ETF,Generates income by selling covered calls on the S&P 500 index.,0.6,Multi-Sector,"Covered Call, Income",Medium,2000,12.00%,Low,10.00%
+JEPI,JPMorgan Equity Premium Income ETF,Actively managed ETF generating income through options and equity exposure.,0.35,Multi-Sector,"Income, Options Strategy",Medium,30000,15.00%,Low,8.00%
+TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Combines long-term Treasury bonds with covered calls for income.,0.35,Fixed Income,"Covered Call, Income, Bonds",Low,500,8.00%,Low,10.00%
+FNGS,MicroSectors FANG+ Index 3X Leveraged ETN,Provides 3x leveraged exposure to the FANG+ Index.,0.95,Technology,"Leveraged Tech, FANG",Extremely High,500,80.00%,Extremely High,0.00%
+SOXL,Direxion Daily Semiconductor Bull 3X Shares,Provides 3x leveraged exposure to a semiconductor index.,0.93,Technology,"Leveraged Semis, Growth",Extremely High,10000,150.00%,Extremely High,0.00%
+SQQQ,ProShares UltraPro Short QQQ,Provides -3x leveraged inverse exposure to the Nasdaq 100 Index.,0.95,Technology,"Leveraged Inverse, Nasdaq",Extremely High,5000,-90.00%,Extremely High,0.00%
+TQQQ,ProShares UltraPro QQQ,Provides 3x leveraged exposure to the Nasdaq 100 Index.,0.95,Technology,"Leveraged Tech, Nasdaq",Extremely High,20000,90.00%,Extremely High,0.00%
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,"Provides leveraged exposure to short-term VIX futures, a volatility measure.",1.65,Multi-Sector,"Volatility, Futures",Extremely High,800,-70.00%,Extremely High,0.00%
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,Tracks short-term VIX futures.,0.89,Multi-Sector,"Volatility, Futures",Extremely High,500,-50.00%,Extremely High,0.00%
+UPRO,ProShares UltraPro S&P500,Provides 3x leveraged exposure to the S&P 500 Index.,0.95,Multi-Sector,Leveraged Broad Market,Extremely High,3000,50.00%,Extremely High,0.00%
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,Provides -3x leveraged inverse exposure to the S&P 500 Index.,1,Multi-Sector,Leveraged Inverse Broad Market,Extremely High,500,-40.00%,Extremely High,0.00%
+KOMP,SPDR S&P Kensho New Economies Composite ETF,Provides exposure to companies across various disruptive innovation themes.,0.2,Multi-Sector,"Innovation, Disruptive Tech",Medium,1000,14.10%,Medium,0.80%
+ALTY,Global X Alternative Income ETF,Invests in alternative income-generating asset classes.,0.75,Multi-Asset,"Alternative Income, Diversification",Medium,30,5.00%,Medium,4.00%
+ARKF,ARK FinTech Innovation ETF,Actively managed fund focusing on companies involved in financial technology.,0.75,Financials,"FinTech, Innovation",High,900,-3.50%,High,0.00%
+BLOK,Amplify Transformational Data Sharing ETF,"Actively managed, invests in companies involved in blockchain technology and cryptocurrency ecosystems.",0.71,Technology,"Blockchain, Crypto",Very High,500,35.00%,Extremely High,0.00%
+CHIQ,Global X MSCI China Consumer Discretionary ETF,Provides exposure to the consumer discretionary sector in China.,0.66,Consumer Discretionary,"China Consumption, E-commerce",Medium,250,-18.20%,High,0.50%
+CIBR,First Trust NASDAQ Cybersecurity ETF,Tracks companies involved in cybersecurity.,0.6,Technology,Cybersecurity,Medium,4000,20.50%,Medium,0.00%
+CLOU,Global X Cloud Computing ETF,Invests in companies positioned to benefit from cloud computing technology.,0.68,Technology,"Cloud Computing, Software",Medium,1100,15.30%,Medium,0.00%
+DRIV,Global X Autonomous & Electric Vehicles ETF,"Invests in companies involved in autonomous vehicles, electric vehicles, and related technologies.",0.68,Consumer Discretionary,"EVs, Autonomous Vehicles, Automotive Tech",High,1500,-8.90%,High,0.00%
+EBIZ,Global X E-commerce ETF,Invests in companies that have significant exposure to the e-commerce industry.,0.68,Consumer Discretionary,"E-commerce, Digital Retail",Medium,100,-12.50%,High,0.00%
+EDOC,Global X Telemedicine & Digital Health ETF,Focuses on companies providing telemedicine and digital health solutions.,0.68,Healthcare,"Telemedicine, Digital Health",Medium,150,-1.50%,Medium,0.00%
+FINX,Global X FinTech ETF,Targets companies providing financial technology.,0.68,Financials,"FinTech, Digital Payments, Blockchain",Medium,700,10.50%,Medium,0.10%
+GNOM,Global X Genomics & Biotechnology ETF,Focuses on the genomics and biotechnology revolution.,0.5,Healthcare,"Genomics, Biotechnology",High,200,-8.70%,High,0.00%
+GTEK,Goldman Sachs Future Tech Leaders Equity ETF,Actively managed ETF investing in innovative technology companies.,0.75,Technology,"Future Tech, Innovation",High,50,18.00%,High,0.00%
+HERO,Global X Video Games & Esports ETF,"Provides exposure to companies involved in video game development, esports, and related hardware and software.",0.5,Communication Services,"Gaming, Esports",Medium,300,9.50%,Medium,0.00%
+HYDR,Global X Hydrogen ETF,Invests in companies that stand to benefit from the advancement of the global hydrogen economy.,0.69,Industrials,"Hydrogen, Clean Energy",High,120,-22.00%,High,0.00%
+ICLN,iShares Global Clean Energy ETF,"Targets global companies that produce energy from solar, wind, and other renewable sources.",0.42,Utilities,"Clean Energy, Renewables",Medium,6100,-15.40%,Medium,1.52%
+IPAY,ETFMG Prime Mobile Payments ETF,Targets companies positioned to benefit from the increasing adoption of mobile payment technology.,0.75,Technology,"Mobile Payments, FinTech",Medium,300,8.10%,Medium,0.00%
+KROP,Global X AgTech & Food Innovation ETF,Invests in companies that are involved in agricultural technology and innovative food production.,0.5,Consumer Staples,"AgTech, Food Innovation",Medium,70,6.20%,Medium,0.00%
+LIT,Global X Lithium & Battery Tech ETF,Tracks companies involved in the full lithium cycle.,0.75,Basic Materials,"Lithium, Battery Technology, EVs",Medium,3000,-20.10%,High,0.55%
+LOUP,Innovative Technology & Lifestyles ETF,"Invests in companies leading innovation in areas such as AI, robotics, and future transportation.",0.75,Technology,"Innovation, Future Tech",High,40,12.00%,High,0.00%
+MILN,Global X Millennial Consumer ETF,Targets companies that cater to the spending habits of the millennial generation.,0.5,Consumer Discretionary,"Millennial Economy, Consumer Trends",Medium,60,-2.00%,Medium,0.00%
+PAVE,Global X U.S. Infrastructure Development ETF,Invests in companies that stand to benefit from increased infrastructure activity in the United States.,0.47,Industrials,"Infrastructure, Construction",Medium,1000,11.30%,Medium,0.90%
+PMPY,Invesco Global Listed Private Equity ETF,Invests in publicly traded companies that are involved in private equity.,0.6,Financials,Private Equity,Medium,80,15.00%,Medium,2.00%
+QTUM,Defiance Quantum ETF,"Focuses on companies at the forefront of quantum computing, AI, and machine learning.",0.95,Technology,"Quantum Computing, AI",Very High,70,28.00%,Very High,0.00%
+RAYS,Global X Solar ETF,Focuses on companies that are positioned to benefit from the adoption of solar energy technology.,0.69,Utilities,"Solar Energy, Renewables",Medium,180,-25.00%,High,0.00%
+ROBO,ROBO Global Robotics and Automation Index ETF,"Provides exposure to global robotics, automation, and artificial intelligence sectors.",0.95,Industrials,"Robotics, Automation, AI",High,2000,12.80%,High,0.20%
+RVNU,RiverFront Dynamic US Dividend ETF,Seeks to invest in dividend-paying U.S. companies across various sectors.,0.85,Multi-Sector,"Income, Dividend Growth",Medium,100,8.50%,Medium,3.50%
+SBUG,AXS Esoterica NextG ETF,Focuses on next-generation cybersecurity companies.,0.75,Technology,"Cybersecurity, NextGen Tech",High,30,18.00%,High,0.00%
+SNSR,First Trust Indxx IoT ETF,Focuses on companies involved in the Internet of Things (IoT).,0.7,Technology,"IoT, Connected Devices",Medium,200,10.00%,Medium,0.00%
+VCAR,ETFMG Electric Vehicles and Future Mobility ETF,"Provides exposure to companies involved in electric vehicles, autonomous driving, and future mobility.",0.6,Consumer Discretionary,"EVs, Autonomous Vehicles",High,90,-5.00%,High,0.00%
+WCLE,Wahed FTSE USA Shariah ETF,Invests in Shariah-compliant U.S. companies across various sectors.,0.5,Multi-Sector,"Shariah-compliant, Ethical Investing",Medium,50,10.00%,Medium,1.50%
+WNDY,Global X Wind Energy ETF,Invests in companies that are positioned to benefit from the adoption of wind energy technology.,0.69,Utilities,"Wind Energy, Renewables",Medium,80,-18.50%,High,0.00%
+XHE,SPDR S&P Health Care Equipment ETF,Invests in companies that are part of the healthcare equipment and supplies industry.,0.35,Healthcare,"Medical Devices, Healthcare Tech",Medium,500,8.00%,Medium,0.50%
